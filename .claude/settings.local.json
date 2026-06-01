@@ -15,7 +15,8 @@
       "Bash(curl -s http://localhost:3000/static/js/bundle.js)",
       "Bash(npx playwright *)",
       "Bash(npx playwright@1.60.0 screenshot --browser chromium http://localhost:3000 /tmp/gf_hero.png)",
-      "Bash(npx playwright@1.60.0 eval ' *)"
+      "Bash(npx playwright@1.60.0 eval ' *)",
+      "Bash(npm install *)"
     ]
   }
 }

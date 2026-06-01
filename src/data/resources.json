@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Driving",
+    "title": "Colorado Driver's Permit and License Guide",
+    "description": "Information about obtaining a driver's permit and license in Colorado.",
+    "url": "https://docs.google.com/document/d/1pDTfjsAmubWGeCZuiUACrJe-oQQaCYMWiD3hoKg9Htg/edit?tab=t.0#heading=h.792426axymv4",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Immigration",
+    "title": "Ask Rebekah",
+    "description": "Contact Rebekah for immigration-related questions and support.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Housing",
+    "title": "Housing in Golden",
+    "description": "Housing is more affordable with roommates. Meet potential roommates before committing, tour properties with a friend, and consider transportation access.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "links": [
+      {
+        "title": "Mineslist Facebook Group",
+        "url": "https://www.facebook.com/share/g/18wPEmAVJG/"
+      },
+      {
+        "title": "Colorado School of Mines Apartments and Housing",
+        "url": "https://www.facebook.com/share/g/1CqeKXDBQP/"
+      },
+      {
+        "title": "Zillow Apartments in Golden",
+        "url": "https://www.zillow.com/golden-co/apartments/"
+      }
+    ]
+  },
+  {
+    "category": "American Culture",
+    "title": "Communication",
+    "description": "Americans tend to communicate directly, value personal space, and often smile to show goodwill.",
+    "url": "https://culturalatlas.sbs.com.au/american-culture/american-culture-communication",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "American Culture",
+    "title": "Tipping",
+    "description": "At sit-down restaurants with waitstaff, tipping 15–25% is expected. Tipping is generally not necessary when ordering at a counter.",
+    "url": "https://www.qantas.com/travelinsider/en/travel-tips/gratuities-and-tipping-in-america.html",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "American Culture",
+    "title": "Time Management",
+    "description": "Punctuality is highly valued. Arriving 5–10 minutes early is considered polite. Deadlines are generally firm.",
+    "url": "https://www.mpowerfinancing.com/blog/time-management-as-international-student",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "American Culture",
+    "title": "Small Talk",
+    "description": "Small talk is often the starting point for friendships in the U.S. Conversations typically deepen as trust develops.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "links": [
+      {
+        "title": "Small Talk Guide 1",
+        "url": "https://www.lingualinkdc.net/blog/usculture-smalltalk"
+      },
+      {
+        "title": "Small Talk Guide 2",
+        "url": "https://www.lingualinkdc.net/blog/usculture-smalltalk2"
+      }
+    ]
+  },
+  {
+    "category": "American Culture",
+    "title": "Making American Friends",
+    "description": "Resources and advice for building friendships with American students.",
+    "url": "https://www.bridgesinternational.com/how-to-make-friends-with-american-students/",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Counseling",
+    "title": "Colorado School of Mines Counseling Center",
+    "description": "Free counseling services for students covered by student fees.",
+    "url": "https://counseling.mines.edu/",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Buying a Car",
+    "title": "Buying a Used Car",
+    "description": "Consider buying a used car through Facebook Marketplace and consult an experienced American friend before purchasing.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Transportation",
+    "title": "Traveling Around Golden",
+    "description": "Information about local transportation options in Golden.",
+    "url": "https://www.cityofgolden.gov/community/getting_around/ride.php",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Transportation",
+    "title": "RTD EcoPass",
+    "description": "Colorado School of Mines students receive free unlimited access to RTD buses and trains.",
+    "url": "https://parkingoffice.mines.edu/campus-parking-and-transit-enhancements/",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Transportation",
+    "title": "RTD Light Rail",
+    "description": "Regional rail transportation throughout the Denver metro area.",
+    "url": "https://www.rtd-denver.com/routes-services/rail",
+    "address": "",
+    "hours": "",
+    "links": [
+      {
+        "title": "RTD Next Ride",
+        "url": "https://app.rtd-denver.com/nextride/route/W"
+      }
+    ]
+  },
+  {
+    "category": "Transportation",
+    "title": "Ore Cart",
+    "description": "Local transportation service in Golden.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Transportation",
+    "title": "Uber",
+    "description": "Ride-sharing transportation service.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "links": []
+  },
+  {
+    "category": "Food Pantry",
+    "title": "Golden Pantry and Thrift",
+    "description": "Community food pantry and thrift store.",
+    "url": "",
+    "address": "1401 Ford St, Golden, CO 80401",
+    "hours": "Monday - Saturday, 10:00 AM - 4:00 PM",
+    "links": []
+  },
+  {
+    "category": "Food Pantry",
+    "title": "Calvary Church Food Shelf",
+    "description": "Provides shelf-stable food and fresh items including meat, produce, dairy, and eggs. Available once per week.",
+    "url": "",
+    "address": "1320 Arapahoe St, Golden, CO 80401",
+    "hours": "Monday - Thursday, 10:00 AM - 3:00 PM",
+    "links": []
+  }
+]

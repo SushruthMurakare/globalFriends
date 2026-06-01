@@ -1,4 +1,8 @@
 import React from 'react';
+import photo1 from "../assets/photos/6E330BB4-FA9E-4D32-8218-FC23325D138E.JPG";
+import photo2 from "../assets/photos/44C31155-FD98-4F76-B6C8-753A3092FB4B_1_105_c.jpeg";
+import photo3 from "../assets/photos/A0211175-AE92-40F9-9C55-C29F86D48FDE_1_105_c.jpeg";
+
 
 export default function Hero() {
   return (
@@ -19,35 +23,34 @@ export default function Hero() {
           </h1>
 
           <p className="hero__subtext">
-            Helping internationals find community, friendship,
-            and belonging in Colorado
+            Meeting the physical, emotional, social, and spiritual needs of international students in Golden, CO.
           </p>
-
+{/* 
           <div className="hero__cta-group">
             <button className="btn-primary">Get Connected</button>
             <button className="btn-ghost">Learn More</button>
-          </div>
+          </div> */}
         </div>
 
         {/* ── Right: Stacked portrait images ── */}
         <div className="hero__images">
           {/* Main large image — top right */}
           <img
-            src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&fit=crop&q=80"
+            src={photo1}
             alt="Diverse group of friends laughing together"
             className="hero__img-main"
           />
 
           {/* Secondary image — bottom left, overlaps main */}
           <img
-            src="https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=700&fit=crop&q=80"
+            src={photo2}
             alt="Community gathering and celebration"
             className="hero__img-secondary"
           />
 
           {/* Accent image — bottom right corner */}
           <img
-            src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&fit=crop&q=80"
+            src={photo3}
             alt="Sharing a meal together"
             className="hero__img-accent"
           />
