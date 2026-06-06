@@ -1,6 +1,7 @@
 import React from 'react';
 import team from '../data/team.json';
 import Navbar from './Navbar';
+import Footer from './Footer';
 
 function formatPhone(digits) {
   const d = digits.replace(/\D/g, '');
@@ -38,6 +39,7 @@ export default function About() {
         </div>
       </div>
     </section>
+    <Footer/>
     </>
   );
 }
