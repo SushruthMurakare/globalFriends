@@ -2,20 +2,192 @@
   {
     "category": "Driving",
     "title": "Colorado Driver's Permit and License Guide",
-    "description": "Information about obtaining a driver's permit and license in Colorado.",
+    "description": "Step-by-step information about obtaining a driver's permit and license in Colorado, including practice driving rules and vehicle registration.",
     "url": "https://docs.google.com/document/d/1pDTfjsAmubWGeCZuiUACrJe-oQQaCYMWiD3hoKg9Htg/edit?tab=t.0#heading=h.792426axymv4",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "There is a process to receive your driver's license in the United States:\n1. Get a Colorado Driver's Permit - you will need to take an exam about the driving laws in Colorado to get your permit.\n2. Practice driving with someone who already has their license. You will need the Driver's Permit to practice driving. (You may not practice driving by yourself — this is illegal.)\n3. Take a driving test and when you pass you can make an appointment to get your Driver's License."
+      },
+      {
+        "title": "Getting a Colorado Driver's Permit",
+        "content": "To get a Colorado Driver's Permit, you must first pass an exam on the Colorado Driving Laws. To be ready for the exam:\n- Read the Colorado Drivers Handbook: https://share.google/A6m15MvxJu7cqYKB2\n- Take some practice tests: https://share.google/Ehp7OWloCWfbkjddn\n- More information: https://dmv.colorado.gov/drivereducation\n\nWhen you are ready to take your exam:\n- Schedule an appointment: https://dmv.colorado.gov/AppointmentScheduling\n- If you have never been to the DMV before, you may need to pre-register: https://dmv.colorado.gov/pre-registration\n\nWhen you go to your appointment, you will take your exam and should bring the following documents (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)"
+      },
+      {
+        "title": "Practice Driving",
+        "content": "Now that you have a Driver's Permit, you need to practice to pass the driving test. You are not allowed to practice driving by yourself — that is illegal. When you practice driving you must have your Driver's Permit with you and someone must be in the car with you with a valid Driver's License.\n\nIf you are driving with a Global Friends Volunteer, that volunteer must have collision coverage on their insurance plan. If the Global Friends Volunteer does not have collision coverage, they must accept that any harm/damage done to their car while a student is driving is not held accountable to the student, Global Friends, or International Students Inc."
+      },
+      {
+        "title": "Getting a Colorado Driver's License",
+        "content": "When you feel ready to take a driving test, make an appointment at a valid Testing School (the DMV does not conduct driving tests). A website with valid Testing Schools: https://dmv.colorado.gov/driver-education-school-locations\n\nA Testing School close to the Colorado School of Mines is Community Driving School:\n- Address: 16950 W Colfax Ave, Ste 107A, Golden, CO 80401\n- Phone: 303-469-4529\n- Website: www.communitydrivingschool.org\n\nOnce you have passed the driving test, schedule an appointment at: https://dmv.colorado.gov/AppointmentScheduling\n\nBring the following documents to your appointment (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n\nAcceptable proof of residence documents: Bank statements, pay stubs, utility/credit card bill, lease/mortgage statement, vehicle registration/title, homeowners/renters insurance policy, first-class mail from a government agency, or USPS Change of Address Form.\n\nUnacceptable documents: Junk/bulk mail, handwritten documents/receipts, documents with only a P.O. Box address, or envelopes with labels or handwritten corrections."
+      },
+      {
+        "title": "Registering a Vehicle in Colorado",
+        "content": "If you have purchased your own car, there are some necessary steps to legally drive your car in Colorado. You will need to register your car with the state of Colorado.\n\n1. Go to AirCare Colorado to get a VIN and emissions test (costs $50 - $25 each)\n2. Acquire Colorado Insurance for your car\n   - Guide to Car Insurance: https://share.google/6sriLoRNmAjlnHVHP\n   - Recommended Car Insurance Providers: Allstate, Progressive, Geico\n   - Get a quote here: https://insuranceautogroup.com/\n3. Get your Vehicle Registered with Colorado — this will get you License Plates for your car\n   - Forms needed: VIN Form, Vehicle Emission Test (that you passed), Proof of Car Insurance, Odometer disclosure, Bill of Sale (when you bought the car)\n   - You have 90 days to register a vehicle after moving to CO from another state"
+      }
+    ],
+    "links": [
+      {
+        "title": "Colorado Drivers Handbook",
+        "url": "https://share.google/A6m15MvxJu7cqYKB2"
+      },
+      {
+        "title": "Practice Tests",
+        "url": "https://share.google/Ehp7OWloCWfbkjddn"
+      },
+      {
+        "title": "DMV Driver Education",
+        "url": "https://dmv.colorado.gov/drivereducation"
+      },
+      {
+        "title": "DMV Appointment Scheduling",
+        "url": "https://dmv.colorado.gov/AppointmentScheduling"
+      },
+      {
+        "title": "DMV Pre-Registration",
+        "url": "https://dmv.colorado.gov/pre-registration"
+      },
+      {
+        "title": "DMV Required Documents",
+        "url": "https://dmv.colorado.gov/documents"
+      },
+      {
+        "title": "Driver Education School Locations",
+        "url": "https://dmv.colorado.gov/driver-education-school-locations"
+      },
+      {
+        "title": "Car Insurance Guide",
+        "url": "https://share.google/6sriLoRNmAjlnHVHP"
+      },
+      {
+        "title": "Car Insurance Quotes",
+        "url": "https://insuranceautogroup.com/"
+      }
+    ]
   },
   {
     "category": "Immigration",
-    "title": "Ask Rebekah",
-    "description": "Contact Rebekah for immigration-related questions and support.",
+    "title": "Immigration Resources for International Students",
+    "description": "Comprehensive immigration resources covering visas, work authorization, OPT, STEM OPT, green cards, and common scams to avoid.",
     "url": "",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "You are not alone in your journey as an international student in the United States. While we are not experts, here are some resources that can help you get started.\n\n- U.S. Immigration and Customs Enforcement Homepage: https://www.ice.gov/sevis\n- Overview of Student and Visitor Visas: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors\n- Study in the States (Rules and Resources): https://studyinthestates.dhs.gov/students"
+      },
+      {
+        "title": "Work Authorization for International Students",
+        "content": "Can you work as an international student? Review these articles from the U.S. Citizen and Immigration Services:\n- Students and Employment: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment\n- Employment for F-1 and M-1 Students: https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-6\n- Work Opportunities for F-1 and M-1 Students (including transfers to H-1B): https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/74-exchange-visitors-and-students/742-f-1-and-m-1-nonimmigrant-students"
+      },
+      {
+        "title": "Optional Practical Training (OPT)",
+        "content": "What does Optional Practical Training look like for F-1 Students?\n- Optional Practical Training (OPT) for F-1 Students: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students\n\nCan I extend OPT as a STEM student?\n- Optional Practical Training Extension for STEM Students (STEM OPT): https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt"
+      },
+      {
+        "title": "Changing Visa Status",
+        "content": "If you are already in the United States and want to study, how can you change to the right status?\n- Changing to a Nonimmigrant F or M Student Status: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment/changing-to-a-nonimmigrant-f-or-m-student-status"
+      },
+      {
+        "title": "Absences from the United States",
+        "content": "What happens to your visa status if you leave the United States for an extended period of time?\n- Absences From the United States: https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-7"
+      },
+      {
+        "title": "Green Card and Long-Term Immigration",
+        "content": "- H-1B Visa Page: https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations\n- Green Card Eligibility Categories: https://www.uscis.gov/green-card/green-card-eligibility-categories\n- Overview of Green Card Through Employment (EB Visas): https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-employment-based-immigrants\n- Steps to Apply for a Green Card: https://www.uscis.gov/green-card/how-to-apply-for-a-green-card\n- Overview of Adjustment of Status (Steps to get a Green Card while in the U.S.): https://www.uscis.gov/green-card/green-card-processes-and-procedures/adjustment-of-status\n- Understanding Visa Caps and Priority Dates for Filing: https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates\n- Links to current Adjustment of Status Filing Charts (Visa Bulletin): https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin\n- Page to Check Visa Processing Times: https://egov.uscis.gov/processing-times\n- Information About Visa Processing Timelines: https://egov.uscis.gov/processing-times/more-info"
+      },
+      {
+        "title": "Immigration Scams to Avoid",
+        "content": "Be aware of scams that target international students. Review this resource from USCIS:\n- Immigration Scams to Be Aware Of (includes student-targeted scams): https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/common-scams"
+      }
+    ],
+    "links": [
+      {
+        "title": "ICE SEVIS Homepage",
+        "url": "https://www.ice.gov/sevis"
+      },
+      {
+        "title": "Overview of Student and Visitor Visas",
+        "url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors"
+      },
+      {
+        "title": "Study in the States",
+        "url": "https://studyinthestates.dhs.gov/students"
+      },
+      {
+        "title": "Students and Employment",
+        "url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment"
+      },
+      {
+        "title": "Employment for F-1 and M-1 Students",
+        "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-6"
+      },
+      {
+        "title": "Work Opportunities for F-1 and M-1 Students",
+        "url": "https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/74-exchange-visitors-and-students/742-f-1-and-m-1-nonimmigrant-students"
+      },
+      {
+        "title": "OPT for F-1 Students",
+        "url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students"
+      },
+      {
+        "title": "STEM OPT Extension",
+        "url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt"
+      },
+      {
+        "title": "Changing to F or M Student Status",
+        "url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment/changing-to-a-nonimmigrant-f-or-m-student-status"
+      },
+      {
+        "title": "Absences From the United States",
+        "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-7"
+      },
+      {
+        "title": "H-1B Visa Page",
+        "url": "https://www.uscis.gov/working-in-the-united-states/h-1b-specialty-occupations"
+      },
+      {
+        "title": "Green Card Eligibility Categories",
+        "url": "https://www.uscis.gov/green-card/green-card-eligibility-categories"
+      },
+      {
+        "title": "Green Card Through Employment",
+        "url": "https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-employment-based-immigrants"
+      },
+      {
+        "title": "Steps to Apply for a Green Card",
+        "url": "https://www.uscis.gov/green-card/how-to-apply-for-a-green-card"
+      },
+      {
+        "title": "Adjustment of Status Overview",
+        "url": "https://www.uscis.gov/green-card/green-card-processes-and-procedures/adjustment-of-status"
+      },
+      {
+        "title": "Visa Availability and Priority Dates",
+        "url": "https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-and-priority-dates"
+      },
+      {
+        "title": "Adjustment of Status Filing Charts (Visa Bulletin)",
+        "url": "https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin"
+      },
+      {
+        "title": "Check Visa Processing Times",
+        "url": "https://egov.uscis.gov/processing-times"
+      },
+      {
+        "title": "Visa Processing Timelines Info",
+        "url": "https://egov.uscis.gov/processing-times/more-info"
+      },
+      {
+        "title": "Common Immigration Scams",
+        "url": "https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/common-scams"
+      }
+    ]
   },
   {
     "category": "Housing",
@@ -24,6 +196,13 @@
     "url": "",
     "address": "",
     "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Tips for Finding Housing",
+        "content": "Housing is more affordable in Golden, Colorado when you live with roommates. We recommend living with friends, but if you do not know anyone, you can request to meet potential roommates in person or over a video chat — like an interview to make sure you are a good fit.\n\nThese Facebook pages are used by students at the Colorado School of Mines. If there is an available room that interests you, reach out to that person on Facebook and express interest. Let them know who you are and that you would like to know more about the room.\n\nYou should ask to take a tour of the place you are considering. Bring a friend with you when you go on the tour. It is best to not be alone during a tour.\n\nIf you do not have a car, make sure you can travel to class and work through the bus system."
+      }
+    ],
     "links": [
       {
         "title": "Mineslist Facebook Group",
@@ -46,7 +225,23 @@
     "url": "https://culturalatlas.sbs.com.au/american-culture/american-culture-communication",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "American Behavioral Preferences",
+        "content": "- Individualism: Emphasis on individual goals and individual rights\n- Low Power Distance: Emphasis on equality; shared decision-making\n- Low Uncertainty Avoidance: Emphasis on flexibility and adaptability\n- Competitive: Emphasis on competition, assertiveness, and achievement\n- Short-Term Time Orientation: Emphasis on immediate outcomes (success now)\n- Low Context/Direct: Emphasis on explicit communication (words)\n- Doing: Emphasis on being busy and meeting goals\n- Monochronic: Emphasis on one thing at a time; punctuality\n\nYou will find that Americans schedule events, meetings, and hangouts with friends in advance. They run a 'tight schedule' much of the time, which is why there is an emphasis on punctuality. Feel free to start building your own schedule too!"
+      },
+      {
+        "title": "American Communication Style",
+        "content": "In general, Americans are very direct communicators although they may switch to indirect when being polite. They value 'personal space', wanting physical distance between themselves and others, such as leaving an open seat between them and someone else on a bus or in a sitting area. Americans are often smiling, wanting to show goodwill to others.\n\nFor an overview on how Americans communicate verbally and nonverbally refer to: https://culturalatlas.sbs.com.au/american-culture/american-culture-communication"
+      }
+    ],
+    "links": [
+      {
+        "title": "American Culture Communication Guide",
+        "url": "https://culturalatlas.sbs.com.au/american-culture/american-culture-communication"
+      }
+    ]
   },
   {
     "category": "American Culture",
@@ -55,7 +250,19 @@
     "url": "https://www.qantas.com/travelinsider/en/travel-tips/gratuities-and-tipping-in-america.html",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "When and How Much to Tip",
+        "content": "In most countries, you give a tip as an extra 'Thank You' to show gratitude for a job well done. When you are at a restaurant in another country, the waitress is paid normally and does not expect a tip. But this is different in the United States. Here waitresses are not paid a normal amount such as $15 an hour — instead they are paid around $3 an hour. It is expected that customers pay a tip to the waitress as if they are a 'contracted worker'.\n\nWhen you eat at a restaurant and there is a waitress bringing you water, taking your order, and bringing your food, it is necessary that you give them a tip when you pay at the end. The tip should be 15%–25% of the total you paid for food. If the waitress did a poor job, give them 15%; if they did a good job, give them 25%.\n\nExample: You are at a restaurant and you had a waitress serve you. Your food cost $40. The tip should be 15%–25% so you should give a tip between $6 and $10.\n\nIf you went to a restaurant and did not have a waitress — where you go to the front of the store to order your food and no one comes to check how the food tastes and if you need more — then you do not leave a tip. Tips are only necessary for waitresses."
+      }
+    ],
+    "links": [
+      {
+        "title": "Tipping in America Guide",
+        "url": "https://www.qantas.com/travelinsider/en/travel-tips/gratuities-and-tipping-in-america.html"
+      }
+    ]
   },
   {
     "category": "American Culture",
@@ -64,7 +271,23 @@
     "url": "https://www.mpowerfinancing.com/blog/time-management-as-international-student",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "Punctuality and Schedules",
+        "content": "Being 'On Time' is highly valued in the United States. If someone says they will meet you at the coffee shop at 3pm, your American friend will be there exactly at 3pm (this may differ from person to person but this is a generalization). Your classes, jobs, and appointments are the same. The time you are told to be somewhere is the exact time you are expected to arrive. It is polite and considerate to arrive 5–10 minutes early. Being late is disrespectful as people have busy and packed schedules.\n\nOne helpful tip is to have a planner, either a small book planner or on your phone. Keep track of when you are supposed to be in class, at work, at a meeting and do not miss them!"
+      },
+      {
+        "title": "Deadlines",
+        "content": "If you have an assignment due at 11:59pm on Tuesday, that is the exact time your paper is due. The professor does not give favor just because you are their student or because you have a good relationship with them. In the United States, the rules apply to everyone, so a deadline is firm. If you believe you need more time to finish an assignment, talk to your professor before the deadline and they may give you an extension. Asking for an extension after the deadline has passed is not good — this will not produce a good result."
+      }
+    ],
+    "links": [
+      {
+        "title": "Time Management for International Students",
+        "url": "https://www.mpowerfinancing.com/blog/time-management-as-international-student"
+      }
+    ]
   },
   {
     "category": "American Culture",
@@ -73,6 +296,13 @@
     "url": "",
     "address": "",
     "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Understanding Small Talk",
+        "content": "Small talk is a big part of American culture. Most people start friendships with 'small talk' and as time goes on and you build trust, then conversations go deeper about values, dreams, purpose, religion, etc.\n\nIf an American says, 'Hi how are you?' they may just say this as a greeting. If the person is standing and paying attention to you, they are genuinely asking the question and want to hear your answer. But if they ask this question while walking by, it is just a greeting like saying 'Hello'."
+      }
+    ],
     "links": [
       {
         "title": "Small Talk Guide 1",
@@ -91,25 +321,145 @@
     "url": "https://www.bridgesinternational.com/how-to-make-friends-with-american-students/",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "Why It Matters",
+        "content": "We are so glad you have come to Golden, Colorado! One experience that can really change your time here in the best way is by making an American friend. When you build a friendship with an American, they can give you an inside look into American culture, how they see the world, their values, and daily life. Your new American friend will also benefit by meeting you and they will get to see the world from your perspective too!"
+      },
+      {
+        "title": "How to Make American Friends",
+        "content": "Making an American Friend takes some effort and intentionality. If you meet someone in your class or at an event, ask for their phone number and send them a text. If your new friend does not text you back right away, you can assume that they are busy or not very good at answering texts. You will not dishonor your new friend if you text them again — this is normal and not considered rude in American culture.\n\nYour American friend may not reach out and initiate first; they fill their schedules and get very busy. We encourage you to reach out to your friends and ask them for a time to hang out. Americans like to plan ahead of time what they are doing with their friends, so you should suggest an activity to do together on a certain day and time. Some activities are: go on a walk, study together, go out for coffee, play pickleball, and get lunch together.\n\nAmericans are very slow to enter deeper, meaningful conversations. Americans like to have surface level conversations until they feel like there is deep trust — this can take a long period of time, maybe a couple months for your American friend to go deep. We encourage you to enjoy all of the fun silly conversations with your new American friend as this is needed to build trust. As trust is built, your new American friend will share deep meaningful things about their lives with you and you can feel safe to do the same."
+      },
+      {
+        "title": "Helpful Tips",
+        "content": "- Be friendly and smile when approaching and talking to a new friend\n- Build up familiarity with your new American friend (are they someone you see in class every week? Do they live in your dorm? Do you share a lab?)\n- Step outside of your comfort zone; join a new club or activity to meet people\n- Don't expect people to come up to you to talk — be brave and start conversations!\n- Ask your new American friend questions about themselves (what are your hobbies, what TV series do you enjoy watching? How are classes going? What are your favorite things to do in Golden?)"
+      },
+      {
+        "title": "Relationships and Gender Dynamics",
+        "content": "In the US, you will likely see a very different dynamic between professors and students than what you may be used to if you are coming from a non-Western country. In American classrooms, there is less 'power distance' between students and teachers. This means that there is a more casual, informal relationship much of the time. Don't be surprised if a professor prefers to be called by their first name. Students often come to class wearing very casual clothing as well.\n\nInteractions between men and women in the United States are generally casual, open, and friendly, and it's common for them to be friends. Men and women who are friends will often hug/wave and exchange jokes. Temporary eye contact, respectful greetings in passing, and handshakes should be interpreted as politeness/friendliness and not romantic interest. If American men or women are wearing revealing clothing, this should also not be interpreted as an invitation toward romantic involvement.\n\nIf you decide to use a dating app, exercise caution and communicate with others (especially American friends) about the people you are meeting. Some Americans on these apps may not have good intentions and could potentially be looking to take advantage of the more vulnerable status of internationals in the US."
+      },
+      {
+        "title": "Global Families Initiative",
+        "content": "If you want to meet with American Friends once a month, sign up for the Global Families Initiative: https://docs.google.com/forms/d/e/1FAIpQLScWSbkiBASA5KAnOpZ_XCjIscBHkhkK3bO-CZUHu2dddCpnQQ/viewform?usp=header"
+      }
+    ],
+    "links": [
+      {
+        "title": "How to Make Friends with American Students",
+        "url": "https://www.bridgesinternational.com/how-to-make-friends-with-american-students/"
+      },
+      {
+        "title": "Small Talk Guide 1",
+        "url": "https://www.lingualinkdc.net/blog/usculture-smalltalk"
+      },
+      {
+        "title": "Small Talk Guide 2",
+        "url": "https://www.lingualinkdc.net/blog/usculture-smalltalk2"
+      },
+      {
+        "title": "Video: Making American Friends",
+        "url": "https://www.youtube.com/shorts/Tg9JweVX7KE"
+      },
+      {
+        "title": "Americans on Making International Friends",
+        "url": "https://www.youtube.com/watch?v=1aplzMCVHNU"
+      },
+      {
+        "title": "Sign Up for Global Families Initiative",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScWSbkiBASA5KAnOpZ_XCjIscBHkhkK3bO-CZUHu2dddCpnQQ/viewform?usp=header"
+      }
+    ]
+  },
+  {
+    "category": "American Culture",
+    "title": "Culture Shock",
+    "description": "What to expect when adjusting to a new culture, common symptoms of culture shock, and how to prepare and respond.",
+    "url": "https://internationalstudents.org/culture-shock/",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "What Is Culture Shock",
+        "content": "Anyone exposed to a new and different culture will experience some degree of culture shock. Upon first arriving, many international students experience a honeymoon period when everything seems new and exciting. But once that passes, a sense of discomfort and unease often settles in."
+      },
+      {
+        "title": "Common Symptoms",
+        "content": "Some common symptoms of the culture shock phase include:\n- Frustration\n- Irritability\n- Boredom\n- Criticism\n- Withdrawal and/or only spending time with those from your country\n- Inability to concentrate\n- Excessive or compulsive eating or drinking\n\nKnowing these symptoms can help you recognize them quickly and respond to the feelings, without allowing them to overwhelm you. It will require effort because you won't feel like pushing yourself. You can significantly shorten the amount of time that you experience these negative symptoms if you respond eagerly."
+      },
+      {
+        "title": "Why Culture Shock Happens",
+        "content": "Virtually all international students experience culture shock to some degree. The different lifestyle or pace in this country may overwhelm you, or perhaps the food and/or customs may seem very strange. Even getting used to a new climate may seem like a difficult adjustment. Loneliness is another common challenge since you have probably left behind family and friends, perhaps for the first time. Don't be surprised to feel homesickness and discouragement.\n\nAdd to that challenges and frustrations with the English language, which may sound quite different than the classroom English you studied back home. You also might struggle to understand the accents as people speak, or keeping up with how fast they speak.\n\nPeople experience culture shock because of mismatched cultural cues and expectations. Unfortunately, when these cues collide, hostility and confusion result. Going into your experience as an international student with an open mind will help you see the similarities and differences between your home country and the US, without judging them. You can experience something as different, without labeling it as inferior, and can respect this new culture without denying your own."
+      },
+      {
+        "title": "How to Prepare",
+        "content": "While preparing yourself ahead of time can help you deal with culture shock, you cannot completely avoid going through some level of adjustment. Living and working conditions, as well as the pace of life, will all seem totally unlike your familiar world. The more you know about the politics, economics, and culture of your destination, the more you can prepare yourself for what to expect when you arrive.\n\nHopefully, before you ever leave home, you will take the opportunity to study about the area you will call home in the US. The more you know about the environment you will go into, the more you will adapt to and appreciate it when you arrive. Learn about unspoken rules and expectations, social manners, and current affairs. Talk to anyone you know who has studied in the US and ask them about their experience. Most importantly, go into your adventure with an open mind. Put aside any stereotypes or preconceptions you may have."
+      }
+    ],
+    "links": [
+      {
+        "title": "Culture Shock Resource",
+        "url": "https://internationalstudents.org/culture-shock/"
+      }
+    ]
   },
   {
     "category": "Counseling",
     "title": "Colorado School of Mines Counseling Center",
-    "description": "Free counseling services for students covered by student fees.",
+    "description": "Free counseling services for students covered by student fees. There is no shame in needing help.",
     "url": "https://counseling.mines.edu/",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [],
+    "links": [
+      {
+        "title": "Counseling Center at Mines",
+        "url": "https://counseling.mines.edu/"
+      }
+    ]
   },
   {
     "category": "Buying a Car",
     "title": "Buying a Used Car",
-    "description": "Consider buying a used car through Facebook Marketplace and consult an experienced American friend before purchasing.",
+    "description": "Guide for buying a used car as an international student, including where to look, how to evaluate a vehicle, and legal requirements for driving in Colorado.",
     "url": "",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "Where to Find a Used Car",
+        "content": "There are a couple of options for those who want to buy a relatively affordable car. You can go through an auto broker, Facebook Marketplace, Craigslist, or leverage your personal connections with other Americans/internationals to find used vehicles that people within your network are trying to sell.\n\nBefore you buy any used car, you can have it inspected by a professional mechanic (other than the car dealer's mechanic) to ensure its dependability. You can also reference a website called www.carfax.com to obtain a detailed history of the car to better inform you of what you are buying.\n\nBefore purchasing any new or used car, you should check its current market value at www.kbb.com or www.cars.com. The prices listed show market-value prices for all makes, models, and years of vehicles, but you should always factor in adjustments for damage, high mileage, market demand, and so forth."
+      },
+      {
+        "title": "Getting Help with the Purchase",
+        "content": "Once you feel ready to make your purchase, you may wish to ask an American friend who is familiar with the process to accompany you. You might also consider using the service of an auto broker who will charge you a fee to find the type of car you want at a price you are willing to pay. Someone knowledgeable can help you know what to look for in a car and help you bargain for an acceptable price — a common practice in negotiating for a vehicle in the US."
+      },
+      {
+        "title": "Legal Requirements for Driving in Colorado",
+        "content": "- You cannot legally drive or register a car in Colorado without an auto insurance policy. Many major insurers like Progressive and State Farm offer policies to foreign nationals with valid passports, visas, and International Driving Permits (IDPs).\n- Gather Secure and Verifiable Identification (SVID). You will need your passport, valid visa, I-20, and I-94 to purchase and register the vehicle.\n- Once purchased, take the vehicle's title, proof of insurance, and your ID to your county's DMV. Golden, Colorado is in Jefferson County, so if you live in Golden, go to the Jefferson County DMV."
+      }
+    ],
+    "links": [
+      {
+        "title": "CarFax - Vehicle History",
+        "url": "https://www.carfax.com"
+      },
+      {
+        "title": "Kelley Blue Book - Car Values",
+        "url": "https://www.kbb.com"
+      },
+      {
+        "title": "Cars.com - Car Values",
+        "url": "https://www.cars.com"
+      },
+      {
+        "title": "International Students Transportation Guide",
+        "url": "https://internationalstudents.org/transportation/"
+      }
+    ]
   },
   {
     "category": "Transportation",
@@ -118,56 +468,134 @@
     "url": "https://www.cityofgolden.gov/community/getting_around/ride.php",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [],
+    "links": [
+      {
+        "title": "City of Golden - Getting Around",
+        "url": "https://www.cityofgolden.gov/community/getting_around/ride.php"
+      }
+    ]
   },
   {
     "category": "Transportation",
     "title": "RTD EcoPass",
-    "description": "Colorado School of Mines students receive free unlimited access to RTD buses and trains.",
+    "description": "Colorado School of Mines students and staff receive free unlimited access to RTD buses and trains, 24/7/365.",
     "url": "https://parkingoffice.mines.edu/campus-parking-and-transit-enhancements/",
-    "address": "",
+    "address": "McNeil Hall, Room 127, Colorado School of Mines",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "How to Get Your EcoPass",
+        "content": "Students have long benefitted from access to RTD's EcoPass, which allows for unlimited rides on RTD buses and trains — 24 hours a day / 7 days a week / 365 days a year. This option is also extended to all faculty and staff (both full and part-time).\n\nAll staff and faculty can obtain the RTD EcoPass, free of charge, from the Parking Services Office. With this benefit, you will have 24/7/365 access to RTD's network of buses and trains, allowing you to leave the car at home and commute to campus for free!\n\nTo obtain your pass, visit the Parking Services office in McNeil Hall (Room 127) or email a headshot to parking@mines.edu and request to pick up the pass when it is ready."
+      }
+    ],
+    "links": [
+      {
+        "title": "Mines Parking and Transit Enhancements",
+        "url": "https://parkingoffice.mines.edu/campus-parking-and-transit-enhancements/"
+      }
+    ]
   },
   {
     "category": "Transportation",
     "title": "RTD Light Rail",
-    "description": "Regional rail transportation throughout the Denver metro area.",
+    "description": "Regional rail transportation throughout the Denver metro area. Students can use the W Line to travel between Golden and Denver.",
     "url": "https://www.rtd-denver.com/routes-services/rail",
     "address": "",
     "hours": "",
+    "phone": "",
+    "sections": [],
     "links": [
       {
-        "title": "RTD Next Ride",
+        "title": "RTD Rail Routes",
+        "url": "https://www.rtd-denver.com/routes-services/rail"
+      },
+      {
+        "title": "RTD Next Ride - W Line",
         "url": "https://app.rtd-denver.com/nextride/route/W"
+      },
+      {
+        "title": "RTD Next Ride - A Line",
+        "url": "https://app.rtd-denver.com/nextride/route/A"
       }
     ]
   },
   {
     "category": "Transportation",
     "title": "Ore Cart",
-    "description": "Local transportation service in Golden.",
-    "url": "",
+    "description": "Free local shuttle service in Golden. Useful for traveling from Jefferson County Government Center–Golden Station to Downtown Golden and the Colorado School of Mines campus.",
+    "url": "https://www.cityofgolden.gov/services/ore_cart/route_map.php",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [],
+    "links": [
+      {
+        "title": "OreCart Route Map",
+        "url": "https://www.cityofgolden.gov/services/ore_cart/route_map.php"
+      }
+    ]
   },
   {
     "category": "Transportation",
     "title": "Uber",
-    "description": "Ride-sharing transportation service.",
+    "description": "Ride-sharing transportation service. Useful for traveling from the Government Center to Downtown Golden and campus. Pay attention to the fixed price before your ride — do not let the driver charge more than what was agreed.",
+    "url": "https://www.uber.com/us/en/ride/",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [],
+    "links": [
+      {
+        "title": "Uber Website",
+        "url": "https://www.uber.com/us/en/ride/"
+      }
+    ]
+  },
+  {
+    "category": "Transportation",
+    "title": "Traveling from Denver Airport to Golden",
+    "description": "Step-by-step guide for traveling from Denver International Airport (DIA) to the Colorado School of Mines campus using public transit.",
     "url": "",
     "address": "",
     "hours": "",
-    "links": []
+    "phone": "",
+    "sections": [
+      {
+        "title": "Step-by-Step Instructions",
+        "content": "You can easily travel from the Denver International Airport (DIA) to Golden by riding the RTD Light Rail.\n\n1. Take the 'A Line' from the airport to Union Station (located in Downtown Denver).\n2. At Union Station, transfer onto the West Rail Line, also known as the 'W' Line. This light rail route runs from Denver Union Station to the Jefferson County Government Center–Golden Station.\n3. After arriving at the Jefferson County Government Center–Golden Station, you have several options to reach downtown Golden:\n   - Take the Tungsten Bus (OreCart Shuttle Service)\n   - Take an Uber\n\nFor more information about the OreCart (Free Shuttle Service in Golden) visit: https://www.cityofgolden.gov/services/ore_cart/route_map.php"
+      },
+      {
+        "title": "Buying a Light Rail Ticket",
+        "content": "To ride the Light Rail you will need to buy a ticket. There is a specific ticket to ride from the airport to anywhere else in Denver — it costs around $10 USD. To buy tickets, you can download the 'RTD App' on your phone or buy a physical ticket at a Light Rail station."
+      }
+    ],
+    "links": [
+      {
+        "title": "RTD A Line (Airport to Union Station)",
+        "url": "https://app.rtd-denver.com/nextride/route/A"
+      },
+      {
+        "title": "RTD W Line (Union Station to Golden)",
+        "url": "https://app.rtd-denver.com/nextride/route/W"
+      },
+      {
+        "title": "OreCart Route Map",
+        "url": "https://www.cityofgolden.gov/services/ore_cart/route_map.php"
+      }
+    ]
   },
   {
     "category": "Food Pantry",
     "title": "Golden Pantry and Thrift",
-    "description": "Community food pantry and thrift store.",
+    "description": "Community food pantry and thrift store in Golden.",
     "url": "",
     "address": "1401 Ford St, Golden, CO 80401",
     "hours": "Monday - Saturday, 10:00 AM - 4:00 PM",
+    "phone": "",
+    "sections": [],
     "links": []
   },
   {
@@ -177,6 +605,131 @@
     "url": "",
     "address": "1320 Arapahoe St, Golden, CO 80401",
     "hours": "Monday - Thursday, 10:00 AM - 3:00 PM",
+    "phone": "",
+    "sections": [
+      {
+        "title": "About the Food Shelf",
+        "content": "The Calvary Food Shelf is open Monday–Thursday, 10am–3pm. Shelf stable food and a variety of fresh food items, including meat, produce, dairy, and eggs are available. The Food Shelf may be visited once a week. Help with getting food to your vehicle is available."
+      },
+      {
+        "title": "Food Tips for New Students",
+        "content": "Coming to the US, it may be tempting to try all the different types of foods it has to offer. It may be fun to test all the different snacks that there are in the grocery aisles, but be aware that if these sweets and various processed foods are eaten consistently, they will cause weight gain. American processed snacks often contain high levels of sugar and fat, so proceed with caution."
+      }
+    ],
     "links": []
+  },
+  {
+    "category": "Phone Plan",
+    "title": "Phone Plans for International Students",
+    "description": "Guide for selecting a U.S. cell phone plan as an international student, including SIM card options, eSIM options, prepaid plans, and contract plans.",
+    "url": "https://internationalcenter.umich.edu/resources/arrival/cellphone",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Using a US-Compatible SIM Card with Your Cell Phone",
+        "content": "Before departure, check with the phone service provider you use in your home country to find out if your service will still be accessible in the US. For most international students and scholars, this option can lead to expensive roaming charges. A common alternative is to consider purchasing a SIM card that is compatible for use in the US.\n\nTo begin, ensure that your phone is unlocked by contacting your service provider. Next, find out what network technology your phone requires and purchase a SIM card compatible with your phone type. (GSM is the most common type of network worldwide.) You'll then need to find a provider in the US that offers the necessary network technology.\n\nMany international students opt for prepaid plans using SIM cards through companies like Mint Mobile, Tello, or T-Mobile — however, be sure to explore other options and compare plans and pricing."
+      },
+      {
+        "title": "eSIM Options",
+        "content": "Another option is to purchase an eSIM, which is a digital version of a physical SIM card. There are multiple eSIM apps that you can download, such as Airalo, Holafly, and Roamify. You can also search and compare the best eSIM plans on eSIMDB.\n\nPlan durations often range from 1 day to 30 days and plan data often ranges from 100MB to unlimited data. Note that you typically keep your phone number when using an eSIM, so you would not be able to get a U.S. phone number (which is often a requirement for opening a U.S. bank account). Because of this, eSIMs might be best for short-term travel in the U.S. If purchasing an eSIM seems like the right choice for you, be sure to research the different plan options."
+      },
+      {
+        "title": "Choosing a Phone Plan",
+        "content": "US cell phone providers offer a variety of prepaid and contract plans. Some cell phone providers may require you to have a Social Security Number in order to purchase a US cell phone and phone plan or require an expensive deposit — however, requirements will vary from company to company. Be sure to review all information and look specifically for international calling rates, possible overage charges, messaging plans, and 3G/4G network fees before signing up for a plan."
+      },
+      {
+        "title": "Prepaid Plan",
+        "content": "Prepaid monthly plans allow you to pay a set rate per month and do not require a contract. Prepaid plans can be used if you purchase a US-compatible SIM card and use your unlocked phone from home. Costs generally range from $35–$75 per month for unlimited texting, calling, and data.\n\nIn addition to not being locked into a contract, prepaid plans do not require credit history or cancellation fees. Typically, using a prepaid plan with your existing phone and US-compatible SIM card won't require a Social Security Number or deposit."
+      },
+      {
+        "title": "Contract Plan",
+        "content": "Most contract plans require you to sign a 2–3 year agreement with the phone provider and the cell service tends to be stronger and more widespread than many prepaid service options. Costs generally range from $40–$80 per month for unlimited texting, calling, and data.\n\nContracted plans often require you to have a Social Security Number — or else pay a deposit (often ranging from $100–$500) that they will refund at some point, usually after 12 months of good standing. There are a large variety of phones to choose from, and there are often discounts or promotions on phones for those who have contracts. Most contract plans will require you to have a credit history and will charge heavy fees if you cancel your plan before the end of the contract. Common contract plans are offered through companies like AT&T, Verizon, and T-Mobile."
+      }
+    ],
+    "links": [
+      {
+        "title": "Cell Phone Guide for International Students (UMich)",
+        "url": "https://internationalcenter.umich.edu/resources/arrival/cellphone"
+      }
+    ]
+  },
+  {
+    "category": "Banking",
+    "title": "Bank Accounts for International Students",
+    "description": "Guide to opening a U.S. bank account near the Colorado School of Mines campus, including recommended banks, required documents, and step-by-step instructions.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Recommended Traditional Banks (Walking Distance from Mines)",
+        "content": "- U.S. Bank (1801 Jackson St): Officially noted by the university's Global Education team as a common choice for Mines international students. They offer a Student Checking Account with zero monthly maintenance fees and allow easy setups for foreigners.\n- Wells Fargo Bank (1301 Jackson St): Located practically across the street from parts of campus. They are highly experienced with international students and typically permit you to open a Student Everyday Checking Account using just your passport and Form I-20 (without needing a Social Security Number).\n- KeyBank (1222 Arapahoe St): Situated just a block north of the main campus area, making it an incredibly quick walk for anyone living in or near downtown Golden."
+      },
+      {
+        "title": "Credit Unions with Campus Affiliation",
+        "content": "Credit Union of Colorado (1800 Jackson St): Located directly across the street from U.S. Bank. All Colorado School of Mines students, alumni, and employees are automatically eligible for membership. Credit unions typically offer lower fees and more personalized service than national banks."
+      },
+      {
+        "title": "On-Campus Cash Access",
+        "content": "JP Morgan Chase ATM: While the closest physical Chase branches require a short drive or a bus trip, there is a Chase ATM right on campus. This is especially useful because the Colorado School of Mines utilizes Chase for its institutional payroll and electronic student account payments."
+      },
+      {
+        "title": "Steps to Open Your Account",
+        "content": "1. Choose the Right Account: Look for 'student' or 'college' checking accounts, which often waive monthly maintenance fees for students.\n2. Visit a Branch: It is highly recommended to visit a bank near your campus in person. Many universities host representatives from local banks during student orientation weeks.\n3. Complete the Application: A bank representative will verify your documents and help you complete the application forms.\n4. Fund the Account: Make your initial deposit using cash, a check, or an international wire transfer.\n5. Set up Digital Banking: Be sure to download the bank's mobile app and set up online banking so you can track your spending and easily deposit checks from your phone."
+      },
+      {
+        "title": "Popular Banks for International Students",
+        "content": "Many major U.S. banks offer tailored student accounts that waive monthly fees:\n- Chase: Offers the Chase College Checking account, which waives the fee for up to 5 years while you are in college.\n- Bank of America: Offers the Advantage SafeBalance or Student Banking account, which is typically free for students under 24 years old.\n- Wells Fargo: Offers an Everyday Checking account that can be designated as a student account to waive monthly service fees.\n- Citibank and PNC Bank also offer specialized student services and large ATM networks near many campuses."
+      },
+      {
+        "title": "Documents to Bring When Opening an Account",
+        "content": "When visiting any of these branches to open your checking account, make sure you bring:\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n- A minimum cash deposit (usually $25–$50) to activate the account"
+      }
+    ],
+    "links": []
+  },
+  {
+    "category": "Weather",
+    "title": "Weather and Altitude in Golden",
+    "description": "What to expect from Colorado's climate and high altitude when arriving in Golden, including tips for staying hydrated and staying warm in winter.",
+    "url": "https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Climate Overview",
+        "content": "Colorado has an arid, dry climate. It has plenty of sunshine and lots of beautiful opportunities for those who enjoy the outdoors. The winters in Colorado are snowy, which is great for those who want to try skiing!\n\nBe sure to get a warm winter coat, hat, gloves, and boots, especially for walking to class on cold winter days. If you want an affordable coat option, you can check out thrift stores such as Goodwill, or check out the Global Friends coat selection to see if any of the free winter coats are a good fit!\n\nDuring the day, temperatures fluctuate between -5°C and 5°C in the winter (November – March)."
+      },
+      {
+        "title": "Altitude and Hydration",
+        "content": "Golden, CO is 1,730 m above sea level, so don't be surprised if you get tired more easily when you first arrive here. Your body will adjust to the change in elevation after a few days.\n\nBe sure to drink lots of water because moving to higher altitude can easily lead to dehydration! Try to consume an extra 1–1.5L of fluids per day when you first get here.\n\nSource: https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/"
+      }
+    ],
+    "links": [
+      {
+        "title": "Does Altitude Cause You to Dehydrate Faster?",
+        "url": "https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/"
+      }
+    ]
+  },
+  {
+    "category": "Things To Do",
+    "title": "What To Do In Golden",
+    "description": "Golden has a lot of activities to offer for students and residents.",
+    "url": "https://www.visitgolden.com/things-to-do/",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [],
+    "links": [
+      {
+        "title": "Visit Golden - Things To Do",
+        "url": "https://www.visitgolden.com/things-to-do/"
+      }
+    ]
   }
 ]

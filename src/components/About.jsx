@@ -1,5 +1,6 @@
 import React from 'react';
 import team from '../data/team.json';
+import Navbar from './Navbar';
 
 function formatPhone(digits) {
   const d = digits.replace(/\D/g, '');
@@ -8,13 +9,13 @@ function formatPhone(digits) {
 
 export default function About() {
   return (
+    <>
+    <Navbar />
     <section id="about" className="about-section">
       <div className="about-inner">
         <span className="section-label">About Us</span>
         <p className="about-statement">
-          We're a small team of passionate volunteers helping
-          international students and workers feel at home in
-          Colorado — one ride, one meal, one friendship at a time.
+          Meeting the physical, emotional, social, and spiritual needs of international students in Golden, CO.
         </p>
 
         <div className="about-team">
@@ -37,5 +38,6 @@ export default function About() {
         </div>
       </div>
     </section>
+    </>
   );
 }

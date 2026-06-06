@@ -6,12 +6,12 @@ const TABS = ["Home", "About", "Global Friends", "Resources", "Contact"];
 
 const TAB_ROUTES = {
   Home: "/",
+  About: "/about",
   "Global Friends": "/gallery",
   Resources: "/resources",
 };
 
 const SCROLL_TARGETS = {
-  About: "about",
   Contact: "contact",
 };
 

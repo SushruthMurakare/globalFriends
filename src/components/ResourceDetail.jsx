@@ -4,6 +4,25 @@ import Navbar from './Navbar';
 import Footer from './Footer';
 import resources from '../data/resources.json';
 
+const URL_REGEX = /(https?:\/\/[^\s]+)/g;
+
+function renderContent(text) {
+  return text.split('\n').filter(line => line.trim()).map((line, i) => {
+    const parts = line.split(URL_REGEX);
+    return (
+      <p key={i} className="rd-section__line">
+        {parts.map((part, j) =>
+          /^https?:\/\//.test(part) ? (
+            <a key={j} href={part} target="_blank" rel="noopener noreferrer" className="rd-section__inline-link">
+              {part}
+            </a>
+          ) : part
+        )}
+      </p>
+    );
+  });
+}
+
 export default function ResourceDetail() {
   const { category } = useParams();
   const navigate = useNavigate();
@@ -33,22 +52,45 @@ export default function ResourceDetail() {
                 <p className="rd-card__desc">{item.description}</p>
               )}
 
-              <div className="rd-card__meta">
-                {item.address && (
-                  <div className="rd-card__meta-row">
-                    <span className="rd-card__meta-label">Address</span>
-                    <span>{item.address}</span>
-                  </div>
-                )}
+              {/* Meta: address / hours / phone */}
+              {(item.address || item.hours || item.phone) && (
+                <div className="rd-card__meta">
+                  {item.address && (
+                    <div className="rd-card__meta-row">
+                      <span className="rd-card__meta-label">Address</span>
+                      <span>{item.address}</span>
+                    </div>
+                  )}
+                  {item.hours && (
+                    <div className="rd-card__meta-row">
+                      <span className="rd-card__meta-label">Hours</span>
+                      <span>{item.hours}</span>
+                    </div>
+                  )}
+                  {item.phone && (
+                    <div className="rd-card__meta-row">
+                      <span className="rd-card__meta-label">Phone</span>
+                      <span>{item.phone}</span>
+                    </div>
+                  )}
+                </div>
+              )}
 
-                {item.hours && (
-                  <div className="rd-card__meta-row">
-                    <span className="rd-card__meta-label">Hours</span>
-                    <span>{item.hours}</span>
-                  </div>
-                )}
-              </div>
+              {/* Sections */}
+              {item.sections && item.sections.length > 0 && (
+                <div className="rd-sections">
+                  {item.sections.map((sec, j) => (
+                    <div key={j} className="rd-section-block">
+                      <h3 className="rd-section__title">{sec.title}</h3>
+                      <div className="rd-section__content">
+                        {renderContent(sec.content)}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
 
+              {/* Links */}
               {item.links && item.links.length > 0 && (
                 <div className="rd-card__links">
                   {item.links.map((link, j) => (

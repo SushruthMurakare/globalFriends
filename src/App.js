@@ -31,9 +31,9 @@ function Home() {
       <Navbar />
       <Hero />
       <Marquee />
-      <About />
+      {/* <About /> */}
       <Services />
-      <Stats />
+      {/* <Stats /> */}
       <Testimonial />
       <CTA />
       <Footer />
@@ -46,6 +46,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
         <Route path="/global-families" element={<GlobalFamilies />} />
         <Route path="/resources" element={<Resources />} />
         <Route path="/resources/:category" element={<ResourceDetail />} />

@@ -37,6 +37,22 @@ const CATEGORY_CONFIG = {
     image: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&fit=crop&q=80',
     alt: 'Food pantry shelves',
   },
+  'Phone Plan': {
+    image: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&fit=crop&q=80',
+    alt: 'Smartphone on a table',
+  },
+  'Weather': {
+    image: 'https://images.unsplash.com/photo-1516912481808-3406841bd33c?w=800&fit=crop&q=80',
+    alt: 'Snowy Colorado mountain',
+  },
+  'Banking': {
+    image: 'https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&fit=crop&q=80',
+    alt: 'Bank building exterior',
+  },
+  'Things To Do': {
+    image: 'https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&fit=crop&q=80',
+    alt: 'Hiking outdoors in Colorado',
+  },
 };
 
 const FALLBACK = {
