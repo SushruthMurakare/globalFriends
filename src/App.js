@@ -3,6 +3,9 @@ import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Marquee from './components/Marquee';
+import Mission from './components/Mission';
+import GlobalFamiliesHome from './components/GlobalFamiliesHome';
+import WhenYouGetHere from './components/WhenYouGetHere';
 import About from './components/About';
 import Services from './components/Services';
 import Stats from './components/Stats';
@@ -13,6 +16,7 @@ import GlobalFamilies from './components/GlobalFamilies';
 import Resources from './components/Resources';
 import ResourceDetail from './components/ResourceDetail';
 import Gallery from './components/Gallery';
+import Contact from './components/Contact';
 
 function Home() {
   const { hash } = useLocation();
@@ -31,8 +35,11 @@ function Home() {
       <Navbar />
       <Hero />
       <Marquee />
+      <Mission />
+      <GlobalFamiliesHome />
+      <WhenYouGetHere />
       {/* <About /> */}
-      <Services />
+      {/* <Services /> */}
       {/* <Stats /> */}
       <Testimonial />
       <CTA />
@@ -51,6 +58,7 @@ function App() {
         <Route path="/resources" element={<Resources />} />
         <Route path="/resources/:category" element={<ResourceDetail />} />
         <Route path="/gallery" element={<Gallery />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </BrowserRouter>
   );

@@ -2,22 +2,15 @@ import React, { useState, useEffect } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import logo from "../assets/images/logo.png";
 
-const TABS = ["Home", "About", "Global Friends", "Resources", "Contact"];
+const TABS = ["Home", "About Us", "Global Friends", "Resources", "Contact Us"];
 
 const TAB_ROUTES = {
   Home: "/",
-  About: "/about",
+  "About Us": "/about",
   "Global Friends": "/gallery",
   Resources: "/resources",
+  "Contact Us": "/contact",
 };
-
-const SCROLL_TARGETS = {
-  Contact: "contact",
-};
-
-function scrollToId(id) {
-  document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
-}
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -37,14 +30,7 @@ export default function Navbar() {
   }, [mobileOpen]);
 
   const handleTab = (tab) => {
-    if (SCROLL_TARGETS[tab]) {
-      const id = SCROLL_TARGETS[tab];
-      if (location.pathname === "/") {
-        scrollToId(id);
-      } else {
-        navigate(`/#${id}`);
-      }
-    } else if (tab === "Home") {
+    if (tab === "Home") {
       if (location.pathname === "/") {
         window.scrollTo({ top: 0, behavior: "smooth" });
       } else {
@@ -59,7 +45,14 @@ export default function Navbar() {
     <>
       <nav className={`navbar${scrolled ? " navbar--scrolled" : ""}`}>
         {/* Logo */}
-        <a href="#" className="navbar__logo">
+        <a
+          href="/"
+          className="navbar__logo"
+          onClick={(e) => {
+            e.preventDefault();
+            handleTab("Home");
+          }}
+        >
           <div className="navbar__logo-badge">
             <img src={logo} alt="Logo" />
           </div>

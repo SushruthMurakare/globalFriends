@@ -344,6 +344,16 @@
         "content": "If you want to meet with American Friends once a month, sign up for the Global Families Initiative: https://docs.google.com/forms/d/e/1FAIpQLScWSbkiBASA5KAnOpZ_XCjIscBHkhkK3bO-CZUHu2dddCpnQQ/viewform?usp=header"
       }
     ],
+    "videos": [
+      {
+        "caption": "Helpful video about making American Friends:",
+        "url": "https://www.youtube.com/shorts/Tg9JweVX7KE"
+      },
+      {
+        "caption": "Hear from some Americans about how an international can make American Friends:",
+        "url": "https://www.youtube.com/watch?v=1aplzMCVHNU"
+      }
+    ],
     "links": [
       {
         "title": "How to Make Friends with American Students",
@@ -358,21 +368,13 @@
         "url": "https://www.lingualinkdc.net/blog/usculture-smalltalk2"
       },
       {
-        "title": "Video: Making American Friends",
-        "url": "https://www.youtube.com/shorts/Tg9JweVX7KE"
-      },
-      {
-        "title": "Americans on Making International Friends",
-        "url": "https://www.youtube.com/watch?v=1aplzMCVHNU"
-      },
-      {
         "title": "Sign Up for Global Families Initiative",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLScWSbkiBASA5KAnOpZ_XCjIscBHkhkK3bO-CZUHu2dddCpnQQ/viewform?usp=header"
       }
     ]
   },
   {
-    "category": "American Culture",
+    "category": "Culture Shock",
     "title": "Culture Shock",
     "description": "What to expect when adjusting to a new culture, common symptoms of culture shock, and how to prepare and respond.",
     "url": "https://internationalstudents.org/culture-shock/",
@@ -729,6 +731,239 @@
       {
         "title": "Visit Golden - Things To Do",
         "url": "https://www.visitgolden.com/things-to-do/"
+      }
+    ]
+  },
+  {
+    "category": "When You Get Here",
+    "title": "Traveling from the Denver Airport to the School of Mines Campus",
+    "description": "Step-by-step guide for traveling from Denver International Airport (DIA) to the Colorado School of Mines campus by RTD Light Rail, and getting from the Golden station to campus.",
+    "url": "https://www.visitgolden.com/plan-your-visit/getting-here-around",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Riding the RTD Light Rail",
+        "content": "You can easily travel from the Denver International Airport (DIA) to Golden by riding the RTD Light Rail. You will first need to take the “A Line” from the airport to Union Station (located in Downtown Denver). When you arrive in Union Station, you will need to transfer onto the West Rail Line, also known as the “W” Line. This light rail route runs from Denver Union Station to the Jefferson County Government Center–Golden Station."
+      },
+      {
+        "title": "Buying a Light Rail Ticket",
+        "content": "To ride the Light Rail you will need to buy a ticket. There is a specific ticket to ride from the airport to anywhere else in Denver — it costs around $10 USD. To buy tickets, you can download the “RTD App” on your phone or buy a physical ticket at a Light Rail station.\n\nA Line: https://app.rtd-denver.com/nextride/route/A\nW Line: https://app.rtd-denver.com/nextride/route/W"
+      },
+      {
+        "title": "Getting to Downtown Golden & Campus",
+        "content": "After arriving at the Jefferson County Government Center–Golden Station, you have several options to reach downtown Golden depending on the time and day of the week. You can take the Tungsten Bus (OreCart Shuttle Service) or an Uber to travel from the Government Center to Downtown Golden and Colorado School of Mines Campus.\n\nFor more information about the OreCart (Free Shuttle Service in Golden) visit: https://www.cityofgolden.gov/services/ore_cart/route_map.php\n\nSource: “Getting to & around Golden.” Visit Golden, https://www.visitgolden.com/plan-your-visit/getting-here-around. Accessed June 21, 2026."
+      }
+    ],
+    "links": [
+      {
+        "title": "RTD A Line (Airport to Union Station)",
+        "url": "https://app.rtd-denver.com/nextride/route/A"
+      },
+      {
+        "title": "RTD W Line (Union Station to Golden)",
+        "url": "https://app.rtd-denver.com/nextride/route/W"
+      },
+      {
+        "title": "OreCart Route Map",
+        "url": "https://www.cityofgolden.gov/services/ore_cart/route_map.php"
+      },
+      {
+        "title": "Visit Golden – Getting Here & Around",
+        "url": "https://www.visitgolden.com/plan-your-visit/getting-here-around"
+      }
+    ]
+  },
+  {
+    "category": "When You Get Here",
+    "title": "Colorado Driver's Permit and License Guide",
+    "description": "Step-by-step information about obtaining a driver's permit and license in Colorado, including practice driving rules and vehicle registration.",
+    "url": "https://docs.google.com/document/d/1pDTfjsAmubWGeCZuiUACrJe-oQQaCYMWiD3hoKg9Htg/edit?tab=t.0#heading=h.792426axymv4",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "There is a process to receive your driver's license in the United States:\n1. Get a Colorado Driver's Permit - you will need to take an exam about the driving laws in Colorado to get your permit.\n2. Practice driving with someone who already has their license. You will need the Driver's Permit to practice driving. (You may not practice driving by yourself — this is illegal.)\n3. Take a driving test and when you pass you can make an appointment to get your Driver's License."
+      },
+      {
+        "title": "Getting a Colorado Driver's Permit",
+        "content": "To get a Colorado Driver's Permit, you must first pass an exam on the Colorado Driving Laws. To be ready for the exam:\n- Read the Colorado Drivers Handbook: https://share.google/A6m15MvxJu7cqYKB2\n- Take some practice tests: https://share.google/Ehp7OWloCWfbkjddn\n- More information: https://dmv.colorado.gov/drivereducation\n\nWhen you are ready to take your exam:\n- Schedule an appointment: https://dmv.colorado.gov/AppointmentScheduling\n- If you have never been to the DMV before, you may need to pre-register: https://dmv.colorado.gov/pre-registration\n\nWhen you go to your appointment, you will take your exam and should bring the following documents (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)"
+      },
+      {
+        "title": "Practice Driving",
+        "content": "Now that you have a Driver's Permit, you need to practice to pass the driving test. You are not allowed to practice driving by yourself — that is illegal. When you practice driving you must have your Driver's Permit with you and someone must be in the car with you with a valid Driver's License.\n\nIf you are driving with a Global Friends Volunteer, that volunteer must have collision coverage on their insurance plan. If the Global Friends Volunteer does not have collision coverage, they must accept that any harm/damage done to their car while a student is driving is not held accountable to the student, Global Friends, or International Students Inc."
+      },
+      {
+        "title": "Getting a Colorado Driver's License",
+        "content": "When you feel ready to take a driving test, make an appointment at a valid Testing School (the DMV does not conduct driving tests). A website with valid Testing Schools: https://dmv.colorado.gov/driver-education-school-locations\n\nA Testing School close to the Colorado School of Mines is Community Driving School:\n- Address: 16950 W Colfax Ave, Ste 107A, Golden, CO 80401\n- Phone: 303-469-4529\n- Website: www.communitydrivingschool.org\n\nOnce you have passed the driving test, schedule an appointment at: https://dmv.colorado.gov/AppointmentScheduling\n\nBring the following documents to your appointment (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n\nAcceptable proof of residence documents: Bank statements, pay stubs, utility/credit card bill, lease/mortgage statement, vehicle registration/title, homeowners/renters insurance policy, first-class mail from a government agency, or USPS Change of Address Form.\n\nUnacceptable documents: Junk/bulk mail, handwritten documents/receipts, documents with only a P.O. Box address, or envelopes with labels or handwritten corrections."
+      },
+      {
+        "title": "Registering a Vehicle in Colorado",
+        "content": "If you have purchased your own car, there are some necessary steps to legally drive your car in Colorado. You will need to register your car with the state of Colorado.\n\n1. Go to AirCare Colorado to get a VIN and emissions test (costs $50 - $25 each)\n2. Acquire Colorado Insurance for your car\n   - Guide to Car Insurance: https://share.google/6sriLoRNmAjlnHVHP\n   - Recommended Car Insurance Providers: Allstate, Progressive, Geico\n   - Get a quote here: https://insuranceautogroup.com/\n3. Get your Vehicle Registered with Colorado — this will get you License Plates for your car\n   - Forms needed: VIN Form, Vehicle Emission Test (that you passed), Proof of Car Insurance, Odometer disclosure, Bill of Sale (when you bought the car)\n   - You have 90 days to register a vehicle after moving to CO from another state"
+      }
+    ],
+    "links": [
+      {
+        "title": "Colorado Drivers Handbook",
+        "url": "https://share.google/A6m15MvxJu7cqYKB2"
+      },
+      {
+        "title": "Practice Tests",
+        "url": "https://share.google/Ehp7OWloCWfbkjddn"
+      },
+      {
+        "title": "DMV Driver Education",
+        "url": "https://dmv.colorado.gov/drivereducation"
+      },
+      {
+        "title": "DMV Appointment Scheduling",
+        "url": "https://dmv.colorado.gov/AppointmentScheduling"
+      },
+      {
+        "title": "DMV Pre-Registration",
+        "url": "https://dmv.colorado.gov/pre-registration"
+      },
+      {
+        "title": "DMV Required Documents",
+        "url": "https://dmv.colorado.gov/documents"
+      },
+      {
+        "title": "Driver Education School Locations",
+        "url": "https://dmv.colorado.gov/driver-education-school-locations"
+      },
+      {
+        "title": "Car Insurance Guide",
+        "url": "https://share.google/6sriLoRNmAjlnHVHP"
+      },
+      {
+        "title": "Car Insurance Quotes",
+        "url": "https://insuranceautogroup.com/"
+      }
+    ]
+  },
+  {
+    "category": "When You Get Here",
+    "title": "Phone Plans for International Students",
+    "description": "Guide for selecting a U.S. cell phone plan as an international student, including SIM card options, eSIM options, prepaid plans, and contract plans.",
+    "url": "https://internationalcenter.umich.edu/resources/arrival/cellphone",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Using a US-Compatible SIM Card with Your Cell Phone",
+        "content": "Before departure, check with the phone service provider you use in your home country to find out if your service will still be accessible in the US. For most international students and scholars, this option can lead to expensive roaming charges. A common alternative is to consider purchasing a SIM card that is compatible for use in the US.\n\nTo begin, ensure that your phone is unlocked by contacting your service provider. Next, find out what network technology your phone requires and purchase a SIM card compatible with your phone type. (GSM is the most common type of network worldwide.) You'll then need to find a provider in the US that offers the necessary network technology.\n\nMany international students opt for prepaid plans using SIM cards through companies like Mint Mobile, Tello, or T-Mobile — however, be sure to explore other options and compare plans and pricing."
+      },
+      {
+        "title": "eSIM Options",
+        "content": "Another option is to purchase an eSIM, which is a digital version of a physical SIM card. There are multiple eSIM apps that you can download, such as Airalo, Holafly, and Roamify. You can also search and compare the best eSIM plans on eSIMDB.\n\nPlan durations often range from 1 day to 30 days and plan data often ranges from 100MB to unlimited data. Note that you typically keep your phone number when using an eSIM, so you would not be able to get a U.S. phone number (which is often a requirement for opening a U.S. bank account). Because of this, eSIMs might be best for short-term travel in the U.S. If purchasing an eSIM seems like the right choice for you, be sure to research the different plan options."
+      },
+      {
+        "title": "Choosing a Phone Plan",
+        "content": "US cell phone providers offer a variety of prepaid and contract plans. Some cell phone providers may require you to have a Social Security Number in order to purchase a US cell phone and phone plan or require an expensive deposit — however, requirements will vary from company to company. Be sure to review all information and look specifically for international calling rates, possible overage charges, messaging plans, and 3G/4G network fees before signing up for a plan."
+      },
+      {
+        "title": "Prepaid Plan",
+        "content": "Prepaid monthly plans allow you to pay a set rate per month and do not require a contract. Prepaid plans can be used if you purchase a US-compatible SIM card and use your unlocked phone from home. Costs generally range from $35–$75 per month for unlimited texting, calling, and data.\n\nIn addition to not being locked into a contract, prepaid plans do not require credit history or cancellation fees. Typically, using a prepaid plan with your existing phone and US-compatible SIM card won't require a Social Security Number or deposit."
+      },
+      {
+        "title": "Contract Plan",
+        "content": "Most contract plans require you to sign a 2–3 year agreement with the phone provider and the cell service tends to be stronger and more widespread than many prepaid service options. Costs generally range from $40–$80 per month for unlimited texting, calling, and data.\n\nContracted plans often require you to have a Social Security Number — or else pay a deposit (often ranging from $100–$500) that they will refund at some point, usually after 12 months of good standing. There are a large variety of phones to choose from, and there are often discounts or promotions on phones for those who have contracts. Most contract plans will require you to have a credit history and will charge heavy fees if you cancel your plan before the end of the contract. Common contract plans are offered through companies like AT&T, Verizon, and T-Mobile."
+      }
+    ],
+    "links": [
+      {
+        "title": "Cell Phone Guide for International Students (UMich)",
+        "url": "https://internationalcenter.umich.edu/resources/arrival/cellphone"
+      }
+    ]
+  },
+  {
+    "category": "When You Get Here",
+    "title": "Bank Accounts for International Students",
+    "description": "Guide to opening a U.S. bank account near the Colorado School of Mines campus, including recommended banks, required documents, and step-by-step instructions.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Recommended Traditional Banks (Walking Distance from Mines)",
+        "content": "- U.S. Bank (1801 Jackson St): Officially noted by the university's Global Education team as a common choice for Mines international students. They offer a Student Checking Account with zero monthly maintenance fees and allow easy setups for foreigners.\n- Wells Fargo Bank (1301 Jackson St): Located practically across the street from parts of campus. They are highly experienced with international students and typically permit you to open a Student Everyday Checking Account using just your passport and Form I-20 (without needing a Social Security Number).\n- KeyBank (1222 Arapahoe St): Situated just a block north of the main campus area, making it an incredibly quick walk for anyone living in or near downtown Golden."
+      },
+      {
+        "title": "Credit Unions with Campus Affiliation",
+        "content": "Credit Union of Colorado (1800 Jackson St): Located directly across the street from U.S. Bank. All Colorado School of Mines students, alumni, and employees are automatically eligible for membership. Credit unions typically offer lower fees and more personalized service than national banks."
+      },
+      {
+        "title": "On-Campus Cash Access",
+        "content": "JP Morgan Chase ATM: While the closest physical Chase branches require a short drive or a bus trip, there is a Chase ATM right on campus. This is especially useful because the Colorado School of Mines utilizes Chase for its institutional payroll and electronic student account payments."
+      },
+      {
+        "title": "Steps to Open Your Account",
+        "content": "1. Choose the Right Account: Look for 'student' or 'college' checking accounts, which often waive monthly maintenance fees for students.\n2. Visit a Branch: It is highly recommended to visit a bank near your campus in person. Many universities host representatives from local banks during student orientation weeks.\n3. Complete the Application: A bank representative will verify your documents and help you complete the application forms.\n4. Fund the Account: Make your initial deposit using cash, a check, or an international wire transfer.\n5. Set up Digital Banking: Be sure to download the bank's mobile app and set up online banking so you can track your spending and easily deposit checks from your phone."
+      },
+      {
+        "title": "Popular Banks for International Students",
+        "content": "Many major U.S. banks offer tailored student accounts that waive monthly fees:\n- Chase: Offers the Chase College Checking account, which waives the fee for up to 5 years while you are in college.\n- Bank of America: Offers the Advantage SafeBalance or Student Banking account, which is typically free for students under 24 years old.\n- Wells Fargo: Offers an Everyday Checking account that can be designated as a student account to waive monthly service fees.\n- Citibank and PNC Bank also offer specialized student services and large ATM networks near many campuses."
+      },
+      {
+        "title": "Documents to Bring When Opening an Account",
+        "content": "When visiting any of these branches to open your checking account, make sure you bring:\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n- A minimum cash deposit (usually $25–$50) to activate the account"
+      }
+    ],
+    "links": []
+  },
+  {
+    "category": "When You Get Here",
+    "title": "Weather and Altitude in Golden",
+    "description": "What to expect from Colorado's climate and high altitude when arriving in Golden, including tips for staying hydrated and staying warm in winter.",
+    "url": "https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Climate Overview",
+        "content": "Colorado has an arid, dry climate. It has plenty of sunshine and lots of beautiful opportunities for those who enjoy the outdoors. The winters in Colorado are snowy, which is great for those who want to try skiing!\n\nBe sure to get a warm winter coat, hat, gloves, and boots, especially for walking to class on cold winter days. If you want an affordable coat option, you can check out thrift stores such as Goodwill, or check out the Global Friends coat selection to see if any of the free winter coats are a good fit!\n\nDuring the day, temperatures fluctuate between -5°C and 5°C in the winter (November – March)."
+      },
+      {
+        "title": "Altitude and Hydration",
+        "content": "Golden, CO is 1,730 m above sea level, so don't be surprised if you get tired more easily when you first arrive here. Your body will adjust to the change in elevation after a few days.\n\nBe sure to drink lots of water because moving to higher altitude can easily lead to dehydration! Try to consume an extra 1–1.5L of fluids per day when you first get here.\n\nSource: https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/"
+      }
+    ],
+    "links": [
+      {
+        "title": "Does Altitude Cause You to Dehydrate Faster?",
+        "url": "https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/"
+      }
+    ]
+  },
+  {
+    "category": "When You Get Here",
+    "title": "Registering a Vehicle in Colorado",
+    "description": "Steps to legally register your own car in Colorado after purchasing it, including emissions testing, insurance, and license plates.",
+    "url": "",
+    "address": "",
+    "hours": "",
+    "phone": "",
+    "sections": [
+      {
+        "title": "Steps to Register Your Vehicle",
+        "content": "If you have purchased your own car, there are some necessary steps to legally drive your car in Colorado. You will need to register your car with the state of Colorado.\n\n1. Go to AirCare Colorado to get a VIN and emissions test (costs $50 - $25 each)\n2. Acquire Colorado Insurance for your car\n   - Guide to Car Insurance: https://share.google/6sriLoRNmAjlnHVHP\n   - Recommended Car Insurance Providers: Allstate, Progressive, Geico\n   - Get a quote here: https://insuranceautogroup.com/\n3. Get your Vehicle Registered with Colorado — this will get you License Plates for your car\n   - Forms needed: VIN Form, Vehicle Emission Test (that you passed), Proof of Car Insurance, Odometer disclosure, Bill of Sale (when you bought the car)\n   - You have 90 days to register a vehicle after moving to CO from another state"
+      }
+    ],
+    "links": [
+      {
+        "title": "Car Insurance Guide",
+        "url": "https://share.google/6sriLoRNmAjlnHVHP"
+      },
+      {
+        "title": "Car Insurance Quotes",
+        "url": "https://insuranceautogroup.com/"
       }
     ]
   }

@@ -1,11 +1,68 @@
-import React from 'react';
-import photo1 from "../assets/photos/6E330BB4-FA9E-4D32-8218-FC23325D138E.JPG";
-import photo2 from "../assets/photos/44C31155-FD98-4F76-B6C8-753A3092FB4B_1_105_c.jpeg";
-import photo3 from "../assets/photos/A0211175-AE92-40F9-9C55-C29F86D48FDE_1_105_c.jpeg";
+import React, { useEffect, useState } from 'react';
 import announcement from '../data/announcement.json';
 
+const photoCtx = require.context('../assets/photos', false, /\.(jpeg|jpg|JPG|png|PNG)$/);
+const ALL_PHOTOS = photoCtx.keys().map(photoCtx);
+
+const SLOT_COUNT = 3;
+const MIN_DELAY = 4000;
+const MAX_DELAY = 9000;
+const FADE_DURATION = 400;
+
+function pickDistinct(count) {
+  const shuffled = [...ALL_PHOTOS].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count);
+}
+
+function randomDelay() {
+  return MIN_DELAY + Math.random() * (MAX_DELAY - MIN_DELAY);
+}
+
+function setAt(arr, index, value) {
+  const next = [...arr];
+  next[index] = value;
+  return next;
+}
 
 export default function Hero() {
+  const [images, setImages] = useState(() => pickDistinct(SLOT_COUNT));
+  const [fading, setFading] = useState(() => Array(SLOT_COUNT).fill(false));
+
+  // Each image slot rotates independently, on its own random timer, so all
+  // three never change in lockstep.
+  useEffect(() => {
+    const timeouts = [];
+    const fadeTimeouts = [];
+
+    const scheduleSlot = (index) => {
+      timeouts[index] = setTimeout(() => {
+        setFading((prev) => setAt(prev, index, true));
+
+        fadeTimeouts[index] = setTimeout(() => {
+          setImages((prev) => {
+            const others = prev.filter((_, i) => i !== index);
+            const pool = ALL_PHOTOS.filter(
+              (p) => p !== prev[index] && !others.includes(p),
+            );
+            const next = pool.length
+              ? pool[Math.floor(Math.random() * pool.length)]
+              : prev[index];
+            return setAt(prev, index, next);
+          });
+          setFading((prev) => setAt(prev, index, false));
+          scheduleSlot(index);
+        }, FADE_DURATION);
+      }, randomDelay());
+    };
+
+    for (let i = 0; i < SLOT_COUNT; i++) scheduleSlot(i);
+
+    return () => {
+      timeouts.forEach(clearTimeout);
+      fadeTimeouts.forEach(clearTimeout);
+    };
+  }, []);
+
   return (
     <section className="hero">
       <div className="hero__inner">
@@ -44,39 +101,39 @@ export default function Hero() {
         <div className="hero__images">
           {/* Main large image — top right */}
           <img
-            src={photo1}
-            alt="Diverse group of friends laughing together"
-            className="hero__img-main"
+            src={images[0]}
+            alt="Global Friends community moment"
+            className={`hero__img-main${fading[0] ? ' hero__img--fading' : ''}`}
           />
 
           {/* Secondary image — bottom left, overlaps main */}
           <img
-            src={photo2}
-            alt="Community gathering and celebration"
-            className="hero__img-secondary"
+            src={images[1]}
+            alt="Global Friends community moment"
+            className={`hero__img-secondary${fading[1] ? ' hero__img--fading' : ''}`}
           />
 
           {/* Accent image — bottom right corner */}
           <img
-            src={photo3}
-            alt="Sharing a meal together"
-            className="hero__img-accent"
+            src={images[2]}
+            alt="Global Friends community moment"
+            className={`hero__img-accent${fading[2] ? ' hero__img--fading' : ''}`}
           />
 
           {/* Floating stat badge */}
-          <div className="hero__float-badge">
+          {/* <div className="hero__float-badge">
             <div className="hero__float-badge-dot" />
             <span className="hero__float-badge-text">200+ Internationals Helped</span>
-          </div>
+          </div> */}
 
           {/* Second floating badge */}
-          <div className="hero__float-badge-2">
+          {/* <div className="hero__float-badge-2">
             <span className="hero__float-badge-icon">🌍</span>
             <div className="hero__float-badge-info">
               <span className="hero__float-badge-num">15+ Countries</span>
               <span className="hero__float-badge-sub">Represented</span>
             </div>
-          </div>
+          </div> */}
         </div>
 
       </div>

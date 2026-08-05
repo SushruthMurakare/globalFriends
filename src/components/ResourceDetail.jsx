@@ -6,6 +6,14 @@ import resources from '../data/resources.json';
 
 const URL_REGEX = /(https?:\/\/[^\s]+)/g;
 
+function getYouTubeEmbed(url) {
+  const shorts = url.match(/youtube\.com\/shorts\/([\w-]+)/);
+  const watch = url.match(/[?&]v=([\w-]+)/) || url.match(/youtu\.be\/([\w-]+)/);
+  const id = shorts ? shorts[1] : watch ? watch[1] : null;
+  if (!id) return null;
+  return { id, isVertical: Boolean(shorts) };
+}
+
 function renderContent(text) {
   return text.split('\n').filter(line => line.trim()).map((line, i) => {
     const parts = line.split(URL_REGEX);
@@ -90,24 +98,34 @@ export default function ResourceDetail() {
                 </div>
               )}
 
-              {/* Links */}
-              {item.links && item.links.length > 0 && (
-                <div className="rd-card__links">
-                  {item.links.map((link, j) => (
-                    <a
-                      key={j}
-                      href={link.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="rd-card__link"
-                    >
-                      {link.title} →
-                    </a>
-                  ))}
+              {/* Videos */}
+              {item.videos && item.videos.length > 0 && (
+                <div className="rd-videos">
+                  {item.videos.map((video, j) => {
+                    const embed = getYouTubeEmbed(video.url);
+                    if (!embed) return null;
+                    return (
+                      <div key={j} className="rd-video">
+                        {video.caption && (
+                          <p className="rd-video__caption">{video.caption}</p>
+                        )}
+                        <div
+                          className={`rd-video__frame-wrap${embed.isVertical ? ' rd-video__frame-wrap--portrait' : ' rd-video__frame-wrap--landscape'}`}
+                        >
+                          <iframe
+                            src={`https://www.youtube.com/embed/${embed.id}`}
+                            title={video.caption || item.title}
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowFullScreen
+                          />
+                        </div>
+                      </div>
+                    );
+                  })}
                 </div>
               )}
 
-              {item.url && (
+              {/* {item.url && (
                 <a
                   href={item.url}
                   target="_blank"
@@ -116,7 +134,7 @@ export default function ResourceDetail() {
                 >
                   Visit Resource
                 </a>
-              )}
+              )} */}
             </div>
           ))}
         </div>

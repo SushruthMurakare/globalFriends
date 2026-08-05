@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from "../assets/images/logo.png";
 
-const TABS = ['Home', 'About', 'Global Friends', 'Resources', 'Contact'];
+const TABS = ['Home', 'About Us', 'Global Friends', 'Resources', 'Contact Us'];
 
 export default function Footer() {
   return (
@@ -38,7 +38,6 @@ export default function Footer() {
             <p className="footer__contact-info">
               imarquis@internationalstudents.org<br />
               Golden, Colorado, USA<br />
-              (231)-299-7712
             </p>
           </div>
 

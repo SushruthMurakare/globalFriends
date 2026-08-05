@@ -17,14 +17,14 @@ const SERVICES = [
     alt: "Diverse group of people smiling together",
     link: "/global-families",
   },
-  {
-    title: "Meals & Community",
-    desc: "Share food, share stories. Join our weekly meals and feel at home.",
-    image:
-      "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&fit=crop&q=80",
-    alt: "Friends sharing a meal together",
-    link: null,
-  },
+  // {
+  //   title: "Meals & Community",
+  //   desc: "Share food, share stories. Join our weekly meals and feel at home.",
+  //   image:
+  //     "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&fit=crop&q=80",
+  //   alt: "Friends sharing a meal together",
+  //   link: null,
+  // },
 ];
 
 export default function Services() {

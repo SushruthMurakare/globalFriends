@@ -29,10 +29,10 @@ export default function About() {
                   <span className="about-contact-label">Email</span>
                   {member['email:']}
                 </a>
-                <span className="about-card-contact-item">
+                {/* <span className="about-card-contact-item">
                   <span className="about-contact-label">Phone</span>
                   {formatPhone(member.phone)}
-                </span>
+                </span> */}
               </div>
             </div>
           ))}

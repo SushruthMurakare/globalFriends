@@ -1,6 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
+import CalendarOfEvents from './CalendarOfEvents';
+import GetConnected from './GetConnected';
+import GlobalFamiliesHome from './GlobalFamiliesHome';
 
 const ctx = require.context('../assets/photos', false, /\.(jpeg|jpg|JPG|png|PNG)$/);
 const PHOTOS = ctx.keys().map(ctx);
@@ -28,13 +31,23 @@ export default function Gallery() {
     <>
       <Navbar />
 
-      <section className="gallery-section">
+      <section className="global-friends-header">
         <div className="gallery-header">
           <span className="section-label">Global Friends</span>
           <h1 className="gallery-headline">Our Community</h1>
           <p className="gallery-sub">
             Moments shared, friendships made, memories that last a lifetime.
           </p>
+        </div>
+      </section>
+
+      <CalendarOfEvents />
+      <GetConnected />
+      <GlobalFamiliesHome />
+
+      <section className="gallery-section">
+        <div className="gallery-header">
+          <span className="section-label">Gallery</span>
         </div>
 
         <div className="gallery-masonry">

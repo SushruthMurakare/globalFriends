@@ -3,62 +3,45 @@ import { useNavigate } from 'react-router-dom';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import resources from '../data/resources.json';
+import {
+  FaIdCard,
+  FaPassport,
+  FaHome,
+  FaFlagUsa,
+  FaCompass,
+  FaHandsHelping,
+  FaCarSide,
+  FaBus,
+  FaShoppingBasket,
+  FaMobileAlt,
+  FaCloudSun,
+  FaUniversity,
+  FaHiking,
+  FaPlaneArrival,
+  FaQuestionCircle,
+} from 'react-icons/fa';
+
+const ORANGE = '#fa824c';
+const BLUE = '#2d80f2';
 
 const CATEGORY_CONFIG = {
-  'Driving': {
-    image: 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&fit=crop&q=80',
-    alt: 'Car driving on a road',
-  },
-  'Immigration': {
-    image: 'https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&fit=crop&q=80',
-    alt: 'Documents and passport',
-  },
-  'Housing': {
-    image: 'https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&fit=crop&q=80',
-    alt: 'House exterior',
-  },
-  'American Culture': {
-    image: 'https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=800&fit=crop&q=80',
-    alt: 'American culture',
-  },
-  'Counseling': {
-    image: 'https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=800&fit=crop&q=80',
-    alt: 'Counseling session',
-  },
-  'Buying a Car': {
-    image: 'https://images.unsplash.com/photo-1550355291-bbee04a92027?w=800&fit=crop&q=80',
-    alt: 'Car dealership',
-  },
-  'Transportation': {
-    image: 'https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=800&fit=crop&q=80',
-    alt: 'Public transit bus',
-  },
-  'Food Pantry': {
-    image: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&fit=crop&q=80',
-    alt: 'Food pantry shelves',
-  },
-  'Phone Plan': {
-    image: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&fit=crop&q=80',
-    alt: 'Smartphone on a table',
-  },
-  'Weather': {
-    image: 'https://images.unsplash.com/photo-1516912481808-3406841bd33c?w=800&fit=crop&q=80',
-    alt: 'Snowy Colorado mountain',
-  },
-  'Banking': {
-    image: 'https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&fit=crop&q=80',
-    alt: 'Bank building exterior',
-  },
-  'Things To Do': {
-    image: 'https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&fit=crop&q=80',
-    alt: 'Hiking outdoors in Colorado',
-  },
+  'Driving': { icon: FaIdCard, color: ORANGE },
+  'Immigration': { icon: FaPassport, color: BLUE },
+  'Housing': { icon: FaHome, color: ORANGE },
+  'American Culture': { icon: FaFlagUsa, color: BLUE },
+  'Culture Shock': { icon: FaCompass, color: ORANGE },
+  'Counseling': { icon: FaHandsHelping, color: BLUE },
+  'Buying a Car': { icon: FaCarSide, color: ORANGE },
+  'Transportation': { icon: FaBus, color: BLUE },
+  'Food Pantry': { icon: FaShoppingBasket, color: ORANGE },
+  'Phone Plan': { icon: FaMobileAlt, color: BLUE },
+  'Weather': { icon: FaCloudSun, color: ORANGE },
+  'Banking': { icon: FaUniversity, color: BLUE },
+  'Things To Do': { icon: FaHiking, color: ORANGE },
+  'When You Get Here': { icon: FaPlaneArrival, color: BLUE },
 };
 
-const FALLBACK = {
-  image: 'https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?w=800&fit=crop&q=80',
-  alt: 'Resource',
-};
+const FALLBACK = { icon: FaQuestionCircle, color: ORANGE };
 
 const categories = [...new Set(resources.map((r) => r.category))];
 
@@ -78,25 +61,23 @@ export default function Resources() {
           </p>
         </div>
 
-        <div className="services-grid">
+        <div className="resource-tile-grid">
           {categories.map((cat) => {
             const config = CATEGORY_CONFIG[cat] || FALLBACK;
-            const count = resources.filter((r) => r.category === cat).length;
+            const Icon = config.icon;
             return (
               <div
                 key={cat}
-                className="service-card service-card--clickable"
+                className="resource-tile"
                 onClick={() => navigate(`/resources/${encodeURIComponent(cat)}`)}
               >
-                <img src={config.image} alt={config.alt} className="service-card__image" />
-                <div className="service-card__overlay" />
-                <div className="service-card__content">
-                  <h3 className="service-card__title">{cat}</h3>
-                  <p className="service-card__desc">
-                    {count} {count === 1 ? 'resource' : 'resources'} available
-                  </p>
-                  <span className="service-card__cta">Explore →</span>
+                <div
+                  className="resource-tile__icon"
+                  style={{ background: `${config.color}1a`, color: config.color }}
+                >
+                  <Icon />
                 </div>
+                <h3 className="resource-tile__title">{cat}</h3>
               </div>
             );
           })}
