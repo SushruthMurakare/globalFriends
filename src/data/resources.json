@@ -14,7 +14,7 @@
       },
       {
         "title": "Getting a Colorado Driver's Permit",
-        "content": "To get a Colorado Driver's Permit, you must first pass an exam on the Colorado Driving Laws. To be ready for the exam:\n- Read the Colorado Drivers Handbook: https://share.google/A6m15MvxJu7cqYKB2\n- Take some practice tests: https://share.google/Ehp7OWloCWfbkjddn\n- More information: https://dmv.colorado.gov/drivereducation\n\nWhen you are ready to take your exam:\n- Schedule an appointment: https://dmv.colorado.gov/AppointmentScheduling\n- If you have never been to the DMV before, you may need to pre-register: https://dmv.colorado.gov/pre-registration\n\nWhen you go to your appointment, you will take your exam and should bring the following documents (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)"
+        "content": "To get a Colorado Driver's Permit, you must first pass an exam on the Colorado Driving Laws. To be ready for the exam:\n- Read the Colorado Drivers Handbook: https://share.google/A6m15MvxJu7cqYKB2\n- Take some practice tests: https://share.google/Ehp7OWloCWfbkjddn\n- More information: https://dmv.colorado.gov/drivereducation\n\nWhen you are ready to take your exam:\n- Schedule an appointment: https://dmv.colorado.gov/AppointmentScheduling\n- Use the Colorado DMV Appointment Finder to find the earliest available slots: https://colorado-dmv-appointment-finder.onrender.com/\n- If you have never been to the DMV before, you may need to pre-register: https://dmv.colorado.gov/pre-registration\n\nWhen you go to your appointment, you will take your exam and should bring the following documents (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)"
       },
       {
         "title": "Practice Driving",
@@ -22,7 +22,7 @@
       },
       {
         "title": "Getting a Colorado Driver's License",
-        "content": "When you feel ready to take a driving test, make an appointment at a valid Testing School (the DMV does not conduct driving tests). A website with valid Testing Schools: https://dmv.colorado.gov/driver-education-school-locations\n\nA Testing School close to the Colorado School of Mines is Community Driving School:\n- Address: 16950 W Colfax Ave, Ste 107A, Golden, CO 80401\n- Phone: 303-469-4529\n- Website: www.communitydrivingschool.org\n\nOnce you have passed the driving test, schedule an appointment at: https://dmv.colorado.gov/AppointmentScheduling\n\nBring the following documents to your appointment (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n\nAcceptable proof of residence documents: Bank statements, pay stubs, utility/credit card bill, lease/mortgage statement, vehicle registration/title, homeowners/renters insurance policy, first-class mail from a government agency, or USPS Change of Address Form.\n\nUnacceptable documents: Junk/bulk mail, handwritten documents/receipts, documents with only a P.O. Box address, or envelopes with labels or handwritten corrections."
+        "content": "When you feel ready to take a driving test, make an appointment at a valid Testing School (the DMV does not conduct driving tests). A website with valid Testing Schools: https://dmv.colorado.gov/driver-education-school-locations\n\nA Testing School close to the Colorado School of Mines is Community Driving School:\n- Address: 16950 W Colfax Ave, Ste 107A, Golden, CO 80401\n- Phone: 303-469-4529\n- Website: www.communitydrivingschool.org\n\nOnce you have passed the driving test, schedule an appointment at: https://dmv.colorado.gov/AppointmentScheduling\n- Use the Colorado DMV Appointment Finder to find the earliest available slots: https://colorado-dmv-appointment-finder.onrender.com/\n\nBring the following documents to your appointment (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n\nAcceptable proof of residence documents: Bank statements, pay stubs, utility/credit card bill, lease/mortgage statement, vehicle registration/title, homeowners/renters insurance policy, first-class mail from a government agency, or USPS Change of Address Form.\n\nUnacceptable documents: Junk/bulk mail, handwritten documents/receipts, documents with only a P.O. Box address, or envelopes with labels or handwritten corrections."
       },
       {
         "title": "Registering a Vehicle in Colorado",
@@ -77,6 +77,10 @@
     "hours": "",
     "phone": "",
     "sections": [
+      {
+        "title": "Colorado School of Mines International Student Office",
+        "content": "We encourage you to refer to the School of Mines International Student page for guidance on your visa and immigration status. Visit https://global.mines.edu/international-students/ and https://international.mines.edu/ for more resources. The International Student Office is happy to meet with you in person at their office on campus to talk about your questions. To make an appointment visit this link: https://global.mines.edu/faculty-resources/contact-us/"
+      },
       {
         "title": "Overview",
         "content": "You are not alone in your journey as an international student in the United States. While we are not experts, here are some resources that can help you get started.\n\n- U.S. Immigration and Customs Enforcement Homepage: https://www.ice.gov/sevis\n- Overview of Student and Visitor Visas: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors\n- Study in the States (Rules and Resources): https://studyinthestates.dhs.gov/students"
@@ -200,21 +204,7 @@
     "sections": [
       {
         "title": "Tips for Finding Housing",
-        "content": "Housing is more affordable in Golden, Colorado when you live with roommates. We recommend living with friends, but if you do not know anyone, you can request to meet potential roommates in person or over a video chat — like an interview to make sure you are a good fit.\n\nThese Facebook pages are used by students at the Colorado School of Mines. If there is an available room that interests you, reach out to that person on Facebook and express interest. Let them know who you are and that you would like to know more about the room.\n\nYou should ask to take a tour of the place you are considering. Bring a friend with you when you go on the tour. It is best to not be alone during a tour.\n\nIf you do not have a car, make sure you can travel to class and work through the bus system."
-      }
-    ],
-    "links": [
-      {
-        "title": "Mineslist Facebook Group",
-        "url": "https://www.facebook.com/share/g/18wPEmAVJG/"
-      },
-      {
-        "title": "Colorado School of Mines Apartments and Housing",
-        "url": "https://www.facebook.com/share/g/1CqeKXDBQP/"
-      },
-      {
-        "title": "Zillow Apartments in Golden",
-        "url": "https://www.zillow.com/golden-co/apartments/"
+        "content": "Housing is more affordable in Golden, Colorado when you live with roommates. We recommend living with friends, but if you do not know anyone, you can request to meet potential roommates in person or over a video chat — like an interview to make sure you are a good fit.\n\nThese Facebook pages are used by students at the Colorado School of Mines. If there is an available room that interests you, reach out to that person on Facebook and express interest. Let them know who you are and that you would like to know more about the room.\n- Mineslist Facebook Group: https://www.facebook.com/share/g/18wPEmAVJG/\n- Colorado School of Mines Apartments and Housing Facebook Group: https://www.facebook.com/share/g/1CqeKXDBQP/\n\nYou can also browse apartment listings directly on Zillow:\n- Zillow Apartments in Golden, CO: https://www.zillow.com/golden-co/apartments/\n\nYou should ask to take a tour of the place you are considering. Bring a friend with you when you go on the tour. It is best to not be alone during a tour.\n\nIf you do not have a car, make sure you can travel to class and work through the bus system."
       }
     ]
   },
@@ -234,6 +224,10 @@
       {
         "title": "American Communication Style",
         "content": "In general, Americans are very direct communicators although they may switch to indirect when being polite. They value 'personal space', wanting physical distance between themselves and others, such as leaving an open seat between them and someone else on a bus or in a sitting area. Americans are often smiling, wanting to show goodwill to others.\n\nFor an overview on how Americans communicate verbally and nonverbally refer to: https://culturalatlas.sbs.com.au/american-culture/american-culture-communication"
+      },
+      {
+        "title": "Citations",
+        "content": "- American Behavioral Preferences: Cultural Intelligence Center, Cultural Intelligence Center, https://cqcenter.com/reports/xL82LhhmFqeBae9V. Accessed 17 June 2026.\n- American Communication Style: Evason, N. (2022). \"American culture: Communication.\" Cultural Atlas. https://culturalatlas.sbs.com.au/american-culture/american-culture-communication. Accessed June 21 2026."
       }
     ],
     "links": [
@@ -255,6 +249,10 @@
       {
         "title": "When and How Much to Tip",
         "content": "In most countries, you give a tip as an extra 'Thank You' to show gratitude for a job well done. When you are at a restaurant in another country, the waitress is paid normally and does not expect a tip. But this is different in the United States. Here waitresses are not paid a normal amount such as $15 an hour — instead they are paid around $3 an hour. It is expected that customers pay a tip to the waitress as if they are a 'contracted worker'.\n\nWhen you eat at a restaurant and there is a waitress bringing you water, taking your order, and bringing your food, it is necessary that you give them a tip when you pay at the end. The tip should be 15%–25% of the total you paid for food. If the waitress did a poor job, give them 15%; if they did a good job, give them 25%.\n\nExample: You are at a restaurant and you had a waitress serve you. Your food cost $40. The tip should be 15%–25% so you should give a tip between $6 and $10.\n\nIf you went to a restaurant and did not have a waitress — where you go to the front of the store to order your food and no one comes to check how the food tastes and if you need more — then you do not leave a tip. Tips are only necessary for waitresses."
+      },
+      {
+        "title": "Citation",
+        "content": "Greig, A. (2024, September 10). \"Tipping in America: The ultimate guide for 2024.\" Travel Insider. Qantas. https://www.qantas.com/travelinsider/en/travel-tips/gratuities-and-tipping-in-america.html. Accessed June 22, 2026."
       }
     ],
     "links": [
@@ -397,6 +395,10 @@
       {
         "title": "How to Prepare",
         "content": "While preparing yourself ahead of time can help you deal with culture shock, you cannot completely avoid going through some level of adjustment. Living and working conditions, as well as the pace of life, will all seem totally unlike your familiar world. The more you know about the politics, economics, and culture of your destination, the more you can prepare yourself for what to expect when you arrive.\n\nHopefully, before you ever leave home, you will take the opportunity to study about the area you will call home in the US. The more you know about the environment you will go into, the more you will adapt to and appreciate it when you arrive. Learn about unspoken rules and expectations, social manners, and current affairs. Talk to anyone you know who has studied in the US and ask them about their experience. Most importantly, go into your adventure with an open mind. Put aside any stereotypes or preconceptions you may have."
+      },
+      {
+        "title": "Citation",
+        "content": "\"Culture Shock.\" International Students, Inc. (ISI), International Students, Inc., https://internationalstudents.org/culture-shock/. Accessed 17 June 2026."
       }
     ],
     "links": [
@@ -442,6 +444,10 @@
       {
         "title": "Legal Requirements for Driving in Colorado",
         "content": "- You cannot legally drive or register a car in Colorado without an auto insurance policy. Many major insurers like Progressive and State Farm offer policies to foreign nationals with valid passports, visas, and International Driving Permits (IDPs).\n- Gather Secure and Verifiable Identification (SVID). You will need your passport, valid visa, I-20, and I-94 to purchase and register the vehicle.\n- Once purchased, take the vehicle's title, proof of insurance, and your ID to your county's DMV. Golden, Colorado is in Jefferson County, so if you live in Golden, go to the Jefferson County DMV."
+      },
+      {
+        "title": "Citation",
+        "content": "\"Transportation.\" International Students, Inc. (ISI), International Students, Inc., https://internationalstudents.org/transportation/. Accessed 17 June 2026."
       }
     ],
     "links": [
@@ -572,6 +578,10 @@
       {
         "title": "Buying a Light Rail Ticket",
         "content": "To ride the Light Rail you will need to buy a ticket. There is a specific ticket to ride from the airport to anywhere else in Denver — it costs around $10 USD. To buy tickets, you can download the 'RTD App' on your phone or buy a physical ticket at a Light Rail station."
+      },
+      {
+        "title": "Citation",
+        "content": "\"Getting to & around Golden.\" Visit Golden, https://www.visitgolden.com/plan-your-visit/getting-here-around. Accessed June 21, 2026."
       }
     ],
     "links": [
@@ -648,6 +658,10 @@
       {
         "title": "Contract Plan",
         "content": "Most contract plans require you to sign a 2–3 year agreement with the phone provider and the cell service tends to be stronger and more widespread than many prepaid service options. Costs generally range from $40–$80 per month for unlimited texting, calling, and data.\n\nContracted plans often require you to have a Social Security Number — or else pay a deposit (often ranging from $100–$500) that they will refund at some point, usually after 12 months of good standing. There are a large variety of phones to choose from, and there are often discounts or promotions on phones for those who have contracts. Most contract plans will require you to have a credit history and will charge heavy fees if you cancel your plan before the end of the contract. Common contract plans are offered through companies like AT&T, Verizon, and T-Mobile."
+      },
+      {
+        "title": "Citation",
+        "content": "\"Cell Phone.\" International Center, University of Michigan International Center, https://internationalcenter.umich.edu/resources/arrival/cellphone. Accessed 17 June 2026."
       }
     ],
     "links": [
@@ -709,6 +723,10 @@
       {
         "title": "Altitude and Hydration",
         "content": "Golden, CO is 1,730 m above sea level, so don't be surprised if you get tired more easily when you first arrive here. Your body will adjust to the change in elevation after a few days.\n\nBe sure to drink lots of water because moving to higher altitude can easily lead to dehydration! Try to consume an extra 1–1.5L of fluids per day when you first get here.\n\nSource: https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/"
+      },
+      {
+        "title": "Citation",
+        "content": "Blow, Andy. \"Does Altitude Cause You to Dehydrate Faster?\" Precision Fuel & Hydration, Precision Fuel & Hydration, https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/. Accessed 17 June 2026."
       }
     ],
     "links": [
@@ -726,7 +744,12 @@
     "address": "",
     "hours": "",
     "phone": "",
-    "sections": [],
+    "sections": [
+      {
+        "title": "Citation",
+        "content": "Visit this webpage to learn more: https://www.visitgolden.com/things-to-do/"
+      }
+    ],
     "links": [
       {
         "title": "Visit Golden - Things To Do",
@@ -754,6 +777,10 @@
       {
         "title": "Getting to Downtown Golden & Campus",
         "content": "After arriving at the Jefferson County Government Center–Golden Station, you have several options to reach downtown Golden depending on the time and day of the week. You can take the Tungsten Bus (OreCart Shuttle Service) or an Uber to travel from the Government Center to Downtown Golden and Colorado School of Mines Campus.\n\nFor more information about the OreCart (Free Shuttle Service in Golden) visit: https://www.cityofgolden.gov/services/ore_cart/route_map.php\n\nSource: “Getting to & around Golden.” Visit Golden, https://www.visitgolden.com/plan-your-visit/getting-here-around. Accessed June 21, 2026."
+      },
+      {
+        "title": "Citation",
+        "content": "\"Getting to & around Golden.\" Visit Golden, https://www.visitgolden.com/plan-your-visit/getting-here-around. Accessed June 21, 2026."
       }
     ],
     "links": [
@@ -790,7 +817,7 @@
       },
       {
         "title": "Getting a Colorado Driver's Permit",
-        "content": "To get a Colorado Driver's Permit, you must first pass an exam on the Colorado Driving Laws. To be ready for the exam:\n- Read the Colorado Drivers Handbook: https://share.google/A6m15MvxJu7cqYKB2\n- Take some practice tests: https://share.google/Ehp7OWloCWfbkjddn\n- More information: https://dmv.colorado.gov/drivereducation\n\nWhen you are ready to take your exam:\n- Schedule an appointment: https://dmv.colorado.gov/AppointmentScheduling\n- If you have never been to the DMV before, you may need to pre-register: https://dmv.colorado.gov/pre-registration\n\nWhen you go to your appointment, you will take your exam and should bring the following documents (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)"
+        "content": "To get a Colorado Driver's Permit, you must first pass an exam on the Colorado Driving Laws. To be ready for the exam:\n- Read the Colorado Drivers Handbook: https://share.google/A6m15MvxJu7cqYKB2\n- Take some practice tests: https://share.google/Ehp7OWloCWfbkjddn\n- More information: https://dmv.colorado.gov/drivereducation\n\nWhen you are ready to take your exam:\n- Schedule an appointment: https://dmv.colorado.gov/AppointmentScheduling\n- Use the Colorado DMV Appointment Finder to find the earliest available slots: https://colorado-dmv-appointment-finder.onrender.com/\n- If you have never been to the DMV before, you may need to pre-register: https://dmv.colorado.gov/pre-registration\n\nWhen you go to your appointment, you will take your exam and should bring the following documents (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)"
       },
       {
         "title": "Practice Driving",
@@ -798,7 +825,7 @@
       },
       {
         "title": "Getting a Colorado Driver's License",
-        "content": "When you feel ready to take a driving test, make an appointment at a valid Testing School (the DMV does not conduct driving tests). A website with valid Testing Schools: https://dmv.colorado.gov/driver-education-school-locations\n\nA Testing School close to the Colorado School of Mines is Community Driving School:\n- Address: 16950 W Colfax Ave, Ste 107A, Golden, CO 80401\n- Phone: 303-469-4529\n- Website: www.communitydrivingschool.org\n\nOnce you have passed the driving test, schedule an appointment at: https://dmv.colorado.gov/AppointmentScheduling\n\nBring the following documents to your appointment (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n\nAcceptable proof of residence documents: Bank statements, pay stubs, utility/credit card bill, lease/mortgage statement, vehicle registration/title, homeowners/renters insurance policy, first-class mail from a government agency, or USPS Change of Address Form.\n\nUnacceptable documents: Junk/bulk mail, handwritten documents/receipts, documents with only a P.O. Box address, or envelopes with labels or handwritten corrections."
+        "content": "When you feel ready to take a driving test, make an appointment at a valid Testing School (the DMV does not conduct driving tests). A website with valid Testing Schools: https://dmv.colorado.gov/driver-education-school-locations\n\nA Testing School close to the Colorado School of Mines is Community Driving School:\n- Address: 16950 W Colfax Ave, Ste 107A, Golden, CO 80401\n- Phone: 303-469-4529\n- Website: www.communitydrivingschool.org\n\nOnce you have passed the driving test, schedule an appointment at: https://dmv.colorado.gov/AppointmentScheduling\n- Use the Colorado DMV Appointment Finder to find the earliest available slots: https://colorado-dmv-appointment-finder.onrender.com/\n\nBring the following documents to your appointment (https://dmv.colorado.gov/documents):\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n\nAcceptable proof of residence documents: Bank statements, pay stubs, utility/credit card bill, lease/mortgage statement, vehicle registration/title, homeowners/renters insurance policy, first-class mail from a government agency, or USPS Change of Address Form.\n\nUnacceptable documents: Junk/bulk mail, handwritten documents/receipts, documents with only a P.O. Box address, or envelopes with labels or handwritten corrections."
       },
       {
         "title": "Registering a Vehicle in Colorado",
@@ -872,6 +899,10 @@
       {
         "title": "Contract Plan",
         "content": "Most contract plans require you to sign a 2–3 year agreement with the phone provider and the cell service tends to be stronger and more widespread than many prepaid service options. Costs generally range from $40–$80 per month for unlimited texting, calling, and data.\n\nContracted plans often require you to have a Social Security Number — or else pay a deposit (often ranging from $100–$500) that they will refund at some point, usually after 12 months of good standing. There are a large variety of phones to choose from, and there are often discounts or promotions on phones for those who have contracts. Most contract plans will require you to have a credit history and will charge heavy fees if you cancel your plan before the end of the contract. Common contract plans are offered through companies like AT&T, Verizon, and T-Mobile."
+      },
+      {
+        "title": "Citation",
+        "content": "\"Cell Phone.\" International Center, University of Michigan International Center, https://internationalcenter.umich.edu/resources/arrival/cellphone. Accessed 17 June 2026."
       }
     ],
     "links": [
@@ -913,6 +944,10 @@
       {
         "title": "Documents to Bring When Opening an Account",
         "content": "When visiting any of these branches to open your checking account, make sure you bring:\n- Your physical Passport with your student visa\n- Your Form I-20 (for F-1 students) or DS-2019 (for J-1 students)\n- Proof of local residence (such as your campus housing agreement or a utility bill)\n- A minimum cash deposit (usually $25–$50) to activate the account"
+      },
+      {
+        "title": "Citation",
+        "content": "Google. AI Overview response to \"How to set up a bank account for an international student at the Colorado School of Mines in Golden.\" Google Search, 17 June 2026, https://www.google.com/search?q=how+to+set+up+a+bank+account+for+an+international+student+at+the+school+of+mines+in+golden. Accessed 17 June 2026."
       }
     ],
     "links": []
@@ -933,6 +968,10 @@
       {
         "title": "Altitude and Hydration",
         "content": "Golden, CO is 1,730 m above sea level, so don't be surprised if you get tired more easily when you first arrive here. Your body will adjust to the change in elevation after a few days.\n\nBe sure to drink lots of water because moving to higher altitude can easily lead to dehydration! Try to consume an extra 1–1.5L of fluids per day when you first get here.\n\nSource: https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/"
+      },
+      {
+        "title": "Citation",
+        "content": "Blow, Andy. \"Does Altitude Cause You to Dehydrate Faster?\" Precision Fuel & Hydration, Precision Fuel & Hydration, https://www.precisionhydration.com/performance-advice/hydration/does-altitude-cause-you-to-dehydrate-faster/. Accessed 17 June 2026."
       }
     ],
     "links": [

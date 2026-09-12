@@ -4,14 +4,6 @@ export default function Mission() {
   return (
     <section className="mission-section">
       <div className="mission-inner">
-        <div className="mission-block">
-          <span className="section-label">Who We Are</span>
-          <p className="mission-text">
-            We're a small team of passionate volunteers helping international
-            students feel at home in Colorado — one ride, one meal, one
-            friendship at a time.
-          </p>
-        </div>
 
         <div className="mission-block">
           <span className="section-label">What We Do</span>
