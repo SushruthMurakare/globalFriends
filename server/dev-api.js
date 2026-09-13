@@ -8,12 +8,14 @@ require('dotenv').config({ path: '.env.local' });
 const express = require('express');
 const photosHandler = require('../api/photos');
 const photoFileHandler = require('../api/photo-file');
+const eventsHandler = require('../api/events');
 
 const app = express();
 const PORT = process.env.DEV_API_PORT || 3001;
 
 app.get('/api/photos', (req, res) => photosHandler(req, res));
 app.get('/api/photo-file', (req, res) => photoFileHandler(req, res));
+app.get('/api/events', (req, res) => eventsHandler(req, res));
 
 app.listen(PORT, () => {
   console.log(`Local API dev server running on http://localhost:${PORT}`);
