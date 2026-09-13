@@ -1,5 +1,4 @@
 import React, { useEffect, useRef, useState } from 'react';
-import announcement from '../data/announcement.json';
 import useDrivePhotos from '../hooks/useDrivePhotos';
 
 const SLOT_COUNT = 3;
@@ -120,16 +119,6 @@ export default function Hero() {
             Away From<br />
             Home
           </h1>
-
-          <div className="hero__announcement">
-            <div className="hero__announcement-header">
-              <span className="hero__announcement-pulse" />
-              <span className="hero__announcement-text">{announcement.title}</span>
-              <span className="hero__announcement-sep">·</span>
-              <span className="hero__announcement-date">{announcement.date}</span>
-            </div>
-            <p className="hero__announcement-desc">{announcement.description}</p>
-          </div>
 
 {/*
           <div className="hero__cta-group">
