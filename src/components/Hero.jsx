@@ -1,15 +1,13 @@
 import React, { useEffect, useRef, useState } from 'react';
 import announcement from '../data/announcement.json';
-
-const photoCtx = require.context('../assets/photos', false, /\.(jpeg|jpg|JPG|png|PNG)$/);
-const ALL_PHOTOS = photoCtx.keys().map(photoCtx);
+import useDrivePhotos from '../hooks/useDrivePhotos';
 
 const SLOT_COUNT = 3;
 const MIN_DELAY = 4000;
 const MAX_DELAY = 9000;
 
-function pickDistinct(count) {
-  const shuffled = [...ALL_PHOTOS].sort(() => Math.random() - 0.5);
+function pickDistinct(pool, count) {
+  const shuffled = [...pool].sort(() => Math.random() - 0.5);
   return shuffled.slice(0, count);
 }
 
@@ -67,18 +65,29 @@ function CrossfadePhoto({ src, alt, className }) {
 }
 
 export default function Hero() {
-  const [images, setImages] = useState(() => pickDistinct(SLOT_COUNT));
+  const { photos } = useDrivePhotos();
+  const [images, setImages] = useState([]);
+
+  // Once the Drive photo list has loaded, pick the initial set of distinct
+  // slots to display.
+  useEffect(() => {
+    if (photos.length && images.length === 0) {
+      setImages(pickDistinct(photos, Math.min(SLOT_COUNT, photos.length)));
+    }
+  }, [photos]);
 
   // Each image slot rotates independently, on its own random timer, so all
   // three never change in lockstep.
   useEffect(() => {
+    if (photos.length < 2) return;
     const timeouts = [];
 
     const scheduleSlot = (index) => {
       timeouts[index] = setTimeout(() => {
         setImages((prev) => {
+          if (!prev.length) return prev;
           const others = prev.filter((_, i) => i !== index);
-          const pool = ALL_PHOTOS.filter(
+          const pool = photos.filter(
             (p) => p !== prev[index] && !others.includes(p),
           );
           const next = pool.length
@@ -90,10 +99,10 @@ export default function Hero() {
       }, randomDelay());
     };
 
-    for (let i = 0; i < SLOT_COUNT; i++) scheduleSlot(i);
+    for (let i = 0; i < Math.min(SLOT_COUNT, photos.length); i++) scheduleSlot(i);
 
     return () => timeouts.forEach(clearTimeout);
-  }, []);
+  }, [photos]);
 
   return (
     <section className="hero">
@@ -132,25 +141,31 @@ export default function Hero() {
         {/* ── Right: Stacked portrait images ── */}
         <div className="hero__images">
           {/* Main large image — top right */}
-          <CrossfadePhoto
-            src={images[0]}
-            alt="Global Friends community moment"
-            className="hero__img-main"
-          />
+          {images[0] && (
+            <CrossfadePhoto
+              src={images[0]}
+              alt="Global Friends community moment"
+              className="hero__img-main"
+            />
+          )}
 
           {/* Secondary image — bottom left, overlaps main */}
-          <CrossfadePhoto
-            src={images[1]}
-            alt="Global Friends community moment"
-            className="hero__img-secondary"
-          />
+          {images[1] && (
+            <CrossfadePhoto
+              src={images[1]}
+              alt="Global Friends community moment"
+              className="hero__img-secondary"
+            />
+          )}
 
           {/* Accent image — bottom right corner */}
-          <CrossfadePhoto
-            src={images[2]}
-            alt="Global Friends community moment"
-            className="hero__img-accent"
-          />
+          {images[2] && (
+            <CrossfadePhoto
+              src={images[2]}
+              alt="Global Friends community moment"
+              className="hero__img-accent"
+            />
+          )}
 
           {/* Floating stat badge */}
           {/* <div className="hero__float-badge">

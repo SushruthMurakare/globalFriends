@@ -1154,6 +1154,14 @@ a.about-card-contact-item:hover {
   margin: 0 auto;
 }
 
+.gallery-empty {
+  text-align: center;
+  font-size: 1.05rem;
+  color: #999;
+  font-weight: 500;
+  padding: 40px 0;
+}
+
 @keyframes galleryFadeUp {
   from {
     opacity: 0;

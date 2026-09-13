@@ -4,11 +4,10 @@ import Footer from './Footer';
 import CalendarOfEvents from './CalendarOfEvents';
 import GetConnected from './GetConnected';
 import GlobalFamiliesHome from './GlobalFamiliesHome';
-
-const ctx = require.context('../assets/photos', false, /\.(jpeg|jpg|JPG|png|PNG)$/);
-const PHOTOS = ctx.keys().map(ctx);
+import useDrivePhotos from '../hooks/useDrivePhotos';
 
 export default function Gallery() {
+  const { photos: PHOTOS, loading } = useDrivePhotos();
   const [lightbox, setLightbox] = useState(null);
 
   useEffect(() => {
@@ -63,6 +62,10 @@ export default function Gallery() {
             </div>
           ))}
         </div>
+
+        {!loading && PHOTOS.length === 0 && (
+          <p className="gallery-empty">Photos are on their way — check back soon!</p>
+        )}
       </section>
 
       <Footer />
