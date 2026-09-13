@@ -45,6 +45,14 @@ export default function Footer() {
 
         <div className="footer__bottom">
           <p className="footer__copyright">© 2026 Global Friends Colorado</p>
+          <a
+            href="https://sushruth.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="footer__credit"
+          >
+            Made with ❤️ by Sushruth Murakare
+          </a>
         </div>
 
       </div>
